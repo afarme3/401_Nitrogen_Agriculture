@@ -13,13 +13,4 @@ veggies <- read.csv("./data/international/vegetables.csv")
 
 barleyOld <- cereals[cereals$Commodity == "1003.00.00 - Barley (Terminated 1998-12)", 1:8]
 
-#Import Data for Fertilizer Seeded Area
-quebec <- read.csv("./data/fertilizer/QUEBEC.csv")
 
-ggplot(data=quebec, aes(x=REF_DATE, y=VALUE, color=Type.of.crop))+
-  geom_line(size=2)+
-  theme_light()+
-  xlab("Year")+
-  ylab("Crop Seeded Area (Ha)")+
-  guides(color=guide_legend("Crop Type"))+
-  ggtitle("Crop Seeded Area (Ha) Over Time for Quebec")
