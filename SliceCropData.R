@@ -11,6 +11,9 @@ cereals <- read.csv("./data/international/cereals.csv")
 oilSeeds <- read.csv("./data/international/oil seeds.csv")
 veggies <- read.csv("./data/international/vegetables.csv")
 
+#Import data for interprovincial trade
+interprovincial <- read.csv("./data/interprovincial/interprovincial_crops.csv")
+
 barleyOld <- cereals[cereals$Commodity == "1003.00.00 - Barley (Terminated 1998-12)", 1:8]
 
 
