@@ -3,17 +3,24 @@
 #and output clean .csv files
 
 #Import packages
+install.packages("stringr")
+
 library(ggplot2)
 library(reshape)
+library(stringr)
 
-#Import data for international trade
-cereals <- read.csv("./data/international/cereals.csv")
-oilSeeds <- read.csv("./data/international/oil seeds.csv")
-veggies <- read.csv("./data/international/vegetables.csv")
+#Import data for trade
+interprovincial <- read.csv("./data/Raw/interprovincial/interprovincial_crops.csv")
 
-#Import data for interprovincial trade
-interprovincial <- read.csv("./data/interprovincial/interprovincial_crops.csv")
+#Import Conversion Factors
+prices <- read.csv("./data/Conversions/historical_prices.csv")
 
-barleyOld <- cereals[cereals$Commodity == "1003.00.00 - Barley (Terminated 1998-12)", 1:8]
+convertPriceToWeight <- function(province){
+  provincialDF <- interprovincial[interprovincial$GEO == province,]
+  provincialPrices <- prices[prices$Province == province,]
+  
+  crops <- str_sub(levels(provincialDF$Product), end=-13)
+  cropPrices <- levels(prices$Crop.Type)
+}
 
-
+convertPriceToWeight("Alberta")
