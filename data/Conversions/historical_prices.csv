@@ -1,54 +1,54 @@
 Year,Province,Crop Type,Dollars Per Metric Tonne
-2001,Newfoundland and Labrador,Fresh Potatoes,322.3021714848
-2002,Newfoundland and Labrador,Fresh Potatoes,350.7819427728
-2003,Newfoundland and Labrador,Fresh Potatoes,340.3515427728
-2004,Newfoundland and Labrador,Fresh Potatoes,326.9066666448
-2005,Newfoundland and Labrador,Fresh Potatoes,364.08
-2006,Newfoundland and Labrador,Fresh Potatoes,452.64
-2007,Newfoundland and Labrador,Fresh Potatoes,435.7714285152
-2008,Newfoundland and Labrador,Fresh Potatoes,542.8399999344
-2009,Newfoundland and Labrador,Fresh Potatoes,600.24
-2010,Newfoundland and Labrador,Fresh Potatoes,503.808
-2011,Newfoundland and Labrador,Fresh Potatoes,488.7199999344
-2012,Newfoundland and Labrador,Fresh Potatoes,447.0171427728
-2013,Newfoundland and Labrador,Fresh Potatoes,506.7037714848
-2014,Newfoundland and Labrador,Fresh Potatoes,536.0832
-2015,Newfoundland and Labrador,Fresh Potatoes,495.8797714848
-2016,Newfoundland and Labrador,Fresh Potatoes,479.4329142576
-2017,Newfoundland and Labrador,Fresh Potatoes,486.5177142576
-2018,Newfoundland and Labrador,Fresh Potatoes,506.5069714848
-2019,Newfoundland and Labrador,Fresh Potatoes,512.8889142576
-2020,Newfoundland and Labrador,Fresh Potatoes,494.6568
-1992,PEI,Wheat (Excluding Durum),142.16
-1993,PEI,Wheat (Excluding Durum),147.25
-1994,PEI,Wheat (Excluding Durum),169.68
-1995,PEI,Wheat (Excluding Durum),198.9
-1996,PEI,Wheat (Excluding Durum),226.31
-1997,PEI,Wheat (Excluding Durum),190.26
-1998,PEI,Wheat (Excluding Durum),158.93
-1999,PEI,Wheat (Excluding Durum),161.31
-2000,PEI,Wheat (Excluding Durum),148.14
-2001,PEI,Wheat (Excluding Durum),162.44
-2002,PEI,Wheat (Excluding Durum),176.33
-2003,PEI,Wheat (Excluding Durum),173.08
-2004,PEI,Wheat (Excluding Durum),161.08
-2005,PEI,Wheat (Excluding Durum),144.25
-2006,PEI,Wheat (Excluding Durum),164.5
-2007,PEI,Wheat (Excluding Durum),205.08
-2008,PEI,Wheat (Excluding Durum),264.33
-2009,PEI,Wheat (Excluding Durum),224.33
-2010,PEI,Wheat (Excluding Durum),218.25
-2011,PEI,Wheat (Excluding Durum),259.25
-2012,PEI,Wheat (Excluding Durum),273.42
-2013,PEI,Wheat (Excluding Durum),267.69
-2014,PEI,Wheat (Excluding Durum),237.57
-2015,PEI,Wheat (Excluding Durum),238.34
-2016,PEI,Wheat (Excluding Durum),225.72
-2017,PEI,Wheat (Excluding Durum),199.94
-2018,PEI,Wheat (Excluding Durum),224.63
-2019,PEI,Wheat (Excluding Durum),234.98
-2020,PEI,Wheat (Excluding Durum),267.94
-2021,PEI,Wheat (Excluding Durum),326.44
+2001,Newfoundland and Labrador,Fresh potatoes,322.3021714848
+2002,Newfoundland and Labrador,Fresh potatoes,350.7819427728
+2003,Newfoundland and Labrador,Fresh potatoes,340.3515427728
+2004,Newfoundland and Labrador,Fresh potatoes,326.9066666448
+2005,Newfoundland and Labrador,Fresh potatoes,364.08
+2006,Newfoundland and Labrador,Fresh potatoes,452.64
+2007,Newfoundland and Labrador,Fresh potatoes,435.7714285152
+2008,Newfoundland and Labrador,Fresh potatoes,542.8399999344
+2009,Newfoundland and Labrador,Fresh potatoes,600.24
+2010,Newfoundland and Labrador,Fresh potatoes,503.808
+2011,Newfoundland and Labrador,Fresh potatoes,488.7199999344
+2012,Newfoundland and Labrador,Fresh potatoes,447.0171427728
+2013,Newfoundland and Labrador,Fresh potatoes,506.7037714848
+2014,Newfoundland and Labrador,Fresh potatoes,536.0832
+2015,Newfoundland and Labrador,Fresh potatoes,495.8797714848
+2016,Newfoundland and Labrador,Fresh potatoes,479.4329142576
+2017,Newfoundland and Labrador,Fresh potatoes,486.5177142576
+2018,Newfoundland and Labrador,Fresh potatoes,506.5069714848
+2019,Newfoundland and Labrador,Fresh potatoes,512.8889142576
+2020,Newfoundland and Labrador,Fresh potatoes,494.6568
+1992,PEI,Wheat,142.16
+1993,PEI,Wheat,147.25
+1994,PEI,Wheat,169.68
+1995,PEI,Wheat,198.9
+1996,PEI,Wheat,226.31
+1997,PEI,Wheat,190.26
+1998,PEI,Wheat,158.93
+1999,PEI,Wheat,161.31
+2000,PEI,Wheat,148.14
+2001,PEI,Wheat,162.44
+2002,PEI,Wheat,176.33
+2003,PEI,Wheat,173.08
+2004,PEI,Wheat,161.08
+2005,PEI,Wheat,144.25
+2006,PEI,Wheat,164.5
+2007,PEI,Wheat,205.08
+2008,PEI,Wheat,264.33
+2009,PEI,Wheat,224.33
+2010,PEI,Wheat,218.25
+2011,PEI,Wheat,259.25
+2012,PEI,Wheat,273.42
+2013,PEI,Wheat,267.69
+2014,PEI,Wheat,237.57
+2015,PEI,Wheat,238.34
+2016,PEI,Wheat,225.72
+2017,PEI,Wheat,199.94
+2018,PEI,Wheat,224.63
+2019,PEI,Wheat,234.98
+2020,PEI,Wheat,267.94
+2021,PEI,Wheat,326.44
 1985,PEI,Oats,133.48
 1986,PEI,Oats,111.28
 1987,PEI,Oats,94.71
@@ -123,36 +123,36 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,PEI,Barley,221.63
 2020,PEI,Barley,241.94
 2021,PEI,Barley,267.64
-1992,Nova Scotia,Wheat (Excluding Durum),153.76
-1993,Nova Scotia,Wheat (Excluding Durum),186.18
-1994,Nova Scotia,Wheat (Excluding Durum),186.93
-1995,Nova Scotia,Wheat (Excluding Durum),208.35
-1996,Nova Scotia,Wheat (Excluding Durum),233.07
-1997,Nova Scotia,Wheat (Excluding Durum),198.38
-1998,Nova Scotia,Wheat (Excluding Durum),166.04
-1999,Nova Scotia,Wheat (Excluding Durum),164.37
-2000,Nova Scotia,Wheat (Excluding Durum),170.18
-2001,Nova Scotia,Wheat (Excluding Durum),189.56
-2002,Nova Scotia,Wheat (Excluding Durum),210.99
-2003,Nova Scotia,Wheat (Excluding Durum),206
-2004,Nova Scotia,Wheat (Excluding Durum),206.83
-2005,Nova Scotia,Wheat (Excluding Durum),143.75
-2006,Nova Scotia,Wheat (Excluding Durum),164.67
-2007,Nova Scotia,Wheat (Excluding Durum),217.42
-2008,Nova Scotia,Wheat (Excluding Durum),258.83
-2009,Nova Scotia,Wheat (Excluding Durum),231.08
-2010,Nova Scotia,Wheat (Excluding Durum),223.42
-2011,Nova Scotia,Wheat (Excluding Durum),262.92
-2012,Nova Scotia,Wheat (Excluding Durum),276.17
-2013,Nova Scotia,Wheat (Excluding Durum),270.01
-2014,Nova Scotia,Wheat (Excluding Durum),271.77
-2015,Nova Scotia,Wheat (Excluding Durum),259.63
-2016,Nova Scotia,Wheat (Excluding Durum),245.89
-2017,Nova Scotia,Wheat (Excluding Durum),228.41
-2018,Nova Scotia,Wheat (Excluding Durum),234.76
-2019,Nova Scotia,Wheat (Excluding Durum),238.62
-2020,Nova Scotia,Wheat (Excluding Durum),258.65
-2021,Nova Scotia,Wheat (Excluding Durum),320.32
+1992,Nova Scotia,Wheat,153.76
+1993,Nova Scotia,Wheat,186.18
+1994,Nova Scotia,Wheat,186.93
+1995,Nova Scotia,Wheat,208.35
+1996,Nova Scotia,Wheat,233.07
+1997,Nova Scotia,Wheat,198.38
+1998,Nova Scotia,Wheat,166.04
+1999,Nova Scotia,Wheat,164.37
+2000,Nova Scotia,Wheat,170.18
+2001,Nova Scotia,Wheat,189.56
+2002,Nova Scotia,Wheat,210.99
+2003,Nova Scotia,Wheat,206
+2004,Nova Scotia,Wheat,206.83
+2005,Nova Scotia,Wheat,143.75
+2006,Nova Scotia,Wheat,164.67
+2007,Nova Scotia,Wheat,217.42
+2008,Nova Scotia,Wheat,258.83
+2009,Nova Scotia,Wheat,231.08
+2010,Nova Scotia,Wheat,223.42
+2011,Nova Scotia,Wheat,262.92
+2012,Nova Scotia,Wheat,276.17
+2013,Nova Scotia,Wheat,270.01
+2014,Nova Scotia,Wheat,271.77
+2015,Nova Scotia,Wheat,259.63
+2016,Nova Scotia,Wheat,245.89
+2017,Nova Scotia,Wheat,228.41
+2018,Nova Scotia,Wheat,234.76
+2019,Nova Scotia,Wheat,238.62
+2020,Nova Scotia,Wheat,258.65
+2021,Nova Scotia,Wheat,320.32
 1985,Nova Scotia,Oats,164.96
 1986,Nova Scotia,Oats,145.94
 1987,Nova Scotia,Oats,124.87
@@ -257,56 +257,56 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,Nova Scotia,Corn for Grain,253.19
 2020,Nova Scotia,Corn for Grain,282.78
 2021,Nova Scotia,Corn for Grain,333.76
-2001,Nova Scotia,Fresh Potatoes,211.506327272727
-2002,Nova Scotia,Fresh Potatoes,180.749866666667
-2003,Nova Scotia,Fresh Potatoes,206.9352
-2004,Nova Scotia,Fresh Potatoes,187.586181818182
-2005,Nova Scotia,Fresh Potatoes,187.66848
-2006,Nova Scotia,Fresh Potatoes,197.94144
-2007,Nova Scotia,Fresh Potatoes,197.784
-2008,Nova Scotia,Fresh Potatoes,222.2856
-2009,Nova Scotia,Fresh Potatoes,267.719563636364
-2010,Nova Scotia,Fresh Potatoes,265.2864
-2011,Nova Scotia,Fresh Potatoes,298.7178
-2012,Nova Scotia,Fresh Potatoes,311.884266666667
-2013,Nova Scotia,Fresh Potatoes,293.175771428571
-2014,Nova Scotia,Fresh Potatoes,296.861866666667
-2015,Nova Scotia,Fresh Potatoes,328.328
-2016,Nova Scotia,Fresh Potatoes,322.629
-2017,Nova Scotia,Fresh Potatoes,330.747
-2018,Nova Scotia,Fresh Potatoes,334.3386
-2019,Nova Scotia,Fresh Potatoes,342.186
-2020,Nova Scotia,Fresh Potatoes,309.96
-1992,New Brunswick,Wheat (Excluding Durum),142.99
-1993,New Brunswick,Wheat (Excluding Durum),120
-1994,New Brunswick,Wheat (Excluding Durum),171.71
-1995,New Brunswick,Wheat (Excluding Durum),204.35
-1996,New Brunswick,Wheat (Excluding Durum),219.87
-1997,New Brunswick,Wheat (Excluding Durum),188.16
-1998,New Brunswick,Wheat (Excluding Durum),174.1
-1999,New Brunswick,Wheat (Excluding Durum),155.01
-2000,New Brunswick,Wheat (Excluding Durum),162.3
-2001,New Brunswick,Wheat (Excluding Durum),188.34
-2002,New Brunswick,Wheat (Excluding Durum),182.43
-2003,New Brunswick,Wheat (Excluding Durum),193.33
-2004,New Brunswick,Wheat (Excluding Durum),202.42
-2005,New Brunswick,Wheat (Excluding Durum),129.5
-2006,New Brunswick,Wheat (Excluding Durum),143.42
-2007,New Brunswick,Wheat (Excluding Durum),187.75
-2008,New Brunswick,Wheat (Excluding Durum),250.25
-2009,New Brunswick,Wheat (Excluding Durum),211
-2010,New Brunswick,Wheat (Excluding Durum),213.75
-2011,New Brunswick,Wheat (Excluding Durum),249.17
-2012,New Brunswick,Wheat (Excluding Durum),274
-2013,New Brunswick,Wheat (Excluding Durum),268.48
-2014,New Brunswick,Wheat (Excluding Durum),252.28
-2015,New Brunswick,Wheat (Excluding Durum),246.61
-2016,New Brunswick,Wheat (Excluding Durum),243.21
-2017,New Brunswick,Wheat (Excluding Durum),223.64
-2018,New Brunswick,Wheat (Excluding Durum),235.1
-2019,New Brunswick,Wheat (Excluding Durum),254.22
-2020,New Brunswick,Wheat (Excluding Durum),277.15
-2021,New Brunswick,Wheat (Excluding Durum),335.58
+2001,Nova Scotia,Fresh potatoes,211.506327272727
+2002,Nova Scotia,Fresh potatoes,180.749866666667
+2003,Nova Scotia,Fresh potatoes,206.9352
+2004,Nova Scotia,Fresh potatoes,187.586181818182
+2005,Nova Scotia,Fresh potatoes,187.66848
+2006,Nova Scotia,Fresh potatoes,197.94144
+2007,Nova Scotia,Fresh potatoes,197.784
+2008,Nova Scotia,Fresh potatoes,222.2856
+2009,Nova Scotia,Fresh potatoes,267.719563636364
+2010,Nova Scotia,Fresh potatoes,265.2864
+2011,Nova Scotia,Fresh potatoes,298.7178
+2012,Nova Scotia,Fresh potatoes,311.884266666667
+2013,Nova Scotia,Fresh potatoes,293.175771428571
+2014,Nova Scotia,Fresh potatoes,296.861866666667
+2015,Nova Scotia,Fresh potatoes,328.328
+2016,Nova Scotia,Fresh potatoes,322.629
+2017,Nova Scotia,Fresh potatoes,330.747
+2018,Nova Scotia,Fresh potatoes,334.3386
+2019,Nova Scotia,Fresh potatoes,342.186
+2020,Nova Scotia,Fresh potatoes,309.96
+1992,New Brunswick,Wheat,142.99
+1993,New Brunswick,Wheat,120
+1994,New Brunswick,Wheat,171.71
+1995,New Brunswick,Wheat,204.35
+1996,New Brunswick,Wheat,219.87
+1997,New Brunswick,Wheat,188.16
+1998,New Brunswick,Wheat,174.1
+1999,New Brunswick,Wheat,155.01
+2000,New Brunswick,Wheat,162.3
+2001,New Brunswick,Wheat,188.34
+2002,New Brunswick,Wheat,182.43
+2003,New Brunswick,Wheat,193.33
+2004,New Brunswick,Wheat,202.42
+2005,New Brunswick,Wheat,129.5
+2006,New Brunswick,Wheat,143.42
+2007,New Brunswick,Wheat,187.75
+2008,New Brunswick,Wheat,250.25
+2009,New Brunswick,Wheat,211
+2010,New Brunswick,Wheat,213.75
+2011,New Brunswick,Wheat,249.17
+2012,New Brunswick,Wheat,274
+2013,New Brunswick,Wheat,268.48
+2014,New Brunswick,Wheat,252.28
+2015,New Brunswick,Wheat,246.61
+2016,New Brunswick,Wheat,243.21
+2017,New Brunswick,Wheat,223.64
+2018,New Brunswick,Wheat,235.1
+2019,New Brunswick,Wheat,254.22
+2020,New Brunswick,Wheat,277.15
+2021,New Brunswick,Wheat,335.58
 1985,New Brunswick,Oats,140.51
 1986,New Brunswick,Oats,118.67
 1987,New Brunswick,Oats,105.42
@@ -381,56 +381,56 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,New Brunswick,Barley,233.5
 2020,New Brunswick,Barley,249.19
 2021,New Brunswick,Barley,275.92
-2001,New Brunswick,Fresh Potatoes,163.2128
-2002,New Brunswick,Fresh Potatoes,218.0052
-2003,New Brunswick,Fresh Potatoes,150.1748
-2004,New Brunswick,Fresh Potatoes,142.2536
-2005,New Brunswick,Fresh Potatoes,149.158
-2006,New Brunswick,Fresh Potatoes,177.6612
-2007,New Brunswick,Fresh Potatoes,145.468
-2008,New Brunswick,Fresh Potatoes,174.66
-2009,New Brunswick,Fresh Potatoes,221.3344
-2010,New Brunswick,Fresh Potatoes,194.6188
-2011,New Brunswick,Fresh Potatoes,215.414
-2012,New Brunswick,Fresh Potatoes,221.6296
-2013,New Brunswick,Fresh Potatoes,233.7984
-2014,New Brunswick,Fresh Potatoes,242.9168
-2015,New Brunswick,Fresh Potatoes,238.4068
-2016,New Brunswick,Fresh Potatoes,242.8512
-2017,New Brunswick,Fresh Potatoes,250.756
-2018,New Brunswick,Fresh Potatoes,247.5744
-2019,New Brunswick,Fresh Potatoes,258.1688
-2020,New Brunswick,Fresh Potatoes,267.957257142857
-1992,Quebec,Wheat (Excluding Durum),128.24
-1993,Quebec,Wheat (Excluding Durum),129.76
-1994,Quebec,Wheat (Excluding Durum),152.89
-1995,Quebec,Wheat (Excluding Durum),195.45
-1996,Quebec,Wheat (Excluding Durum),243.18
-1997,Quebec,Wheat (Excluding Durum),179.07
-1998,Quebec,Wheat (Excluding Durum),164.69
-1999,Quebec,Wheat (Excluding Durum),143.37
-2000,Quebec,Wheat (Excluding Durum),146.47
-2001,Quebec,Wheat (Excluding Durum),151.01
-2002,Quebec,Wheat (Excluding Durum),186.47
-2003,Quebec,Wheat (Excluding Durum),175.02
-2004,Quebec,Wheat (Excluding Durum),154.27
-2005,Quebec,Wheat (Excluding Durum),128.84
-2006,Quebec,Wheat (Excluding Durum),160.02
-2007,Quebec,Wheat (Excluding Durum),210.75
-2008,Quebec,Wheat (Excluding Durum),276.89
-2009,Quebec,Wheat (Excluding Durum),202.2
-2010,Quebec,Wheat (Excluding Durum),133.65
-2011,Quebec,Wheat (Excluding Durum),208.11
-2012,Quebec,Wheat (Excluding Durum),274.82
-2013,Quebec,Wheat (Excluding Durum),272.06
-2014,Quebec,Wheat (Excluding Durum),251.19
-2015,Quebec,Wheat (Excluding Durum),259.3
-2016,Quebec,Wheat (Excluding Durum),232.06
-2017,Quebec,Wheat (Excluding Durum),238.49
-2018,Quebec,Wheat (Excluding Durum),253.74
-2019,Quebec,Wheat (Excluding Durum),273.59
-2020,Quebec,Wheat (Excluding Durum),273.25
-2021,Quebec,Wheat (Excluding Durum),332.81
+2001,New Brunswick,Fresh potatoes,163.2128
+2002,New Brunswick,Fresh potatoes,218.0052
+2003,New Brunswick,Fresh potatoes,150.1748
+2004,New Brunswick,Fresh potatoes,142.2536
+2005,New Brunswick,Fresh potatoes,149.158
+2006,New Brunswick,Fresh potatoes,177.6612
+2007,New Brunswick,Fresh potatoes,145.468
+2008,New Brunswick,Fresh potatoes,174.66
+2009,New Brunswick,Fresh potatoes,221.3344
+2010,New Brunswick,Fresh potatoes,194.6188
+2011,New Brunswick,Fresh potatoes,215.414
+2012,New Brunswick,Fresh potatoes,221.6296
+2013,New Brunswick,Fresh potatoes,233.7984
+2014,New Brunswick,Fresh potatoes,242.9168
+2015,New Brunswick,Fresh potatoes,238.4068
+2016,New Brunswick,Fresh potatoes,242.8512
+2017,New Brunswick,Fresh potatoes,250.756
+2018,New Brunswick,Fresh potatoes,247.5744
+2019,New Brunswick,Fresh potatoes,258.1688
+2020,New Brunswick,Fresh potatoes,267.957257142857
+1992,Quebec,Wheat,128.24
+1993,Quebec,Wheat,129.76
+1994,Quebec,Wheat,152.89
+1995,Quebec,Wheat,195.45
+1996,Quebec,Wheat,243.18
+1997,Quebec,Wheat,179.07
+1998,Quebec,Wheat,164.69
+1999,Quebec,Wheat,143.37
+2000,Quebec,Wheat,146.47
+2001,Quebec,Wheat,151.01
+2002,Quebec,Wheat,186.47
+2003,Quebec,Wheat,175.02
+2004,Quebec,Wheat,154.27
+2005,Quebec,Wheat,128.84
+2006,Quebec,Wheat,160.02
+2007,Quebec,Wheat,210.75
+2008,Quebec,Wheat,276.89
+2009,Quebec,Wheat,202.2
+2010,Quebec,Wheat,133.65
+2011,Quebec,Wheat,208.11
+2012,Quebec,Wheat,274.82
+2013,Quebec,Wheat,272.06
+2014,Quebec,Wheat,251.19
+2015,Quebec,Wheat,259.3
+2016,Quebec,Wheat,232.06
+2017,Quebec,Wheat,238.49
+2018,Quebec,Wheat,253.74
+2019,Quebec,Wheat,273.59
+2020,Quebec,Wheat,273.25
+2021,Quebec,Wheat,332.81
 1985,Quebec,Oats,141.13
 1986,Quebec,Oats,110.58
 1987,Quebec,Oats,106.49
@@ -551,7 +551,7 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2006,Quebec,Canola (including rapeseed),207.08
 2007,Quebec,Canola (including rapeseed),338.03
 2008,Quebec,Canola (including rapeseed),397.28
-2009,Quebec,Canola (including rapeseed),385.90
+2009,Quebec,Canola (including rapeseed),385.9
 2010,Quebec,Canola (including rapeseed),405.86
 2011,Quebec,Canola (including rapeseed),541.13
 2012,Quebec,Canola (including rapeseed),568.64
@@ -564,26 +564,26 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,Quebec,Canola (including rapeseed),457.19
 2020,Quebec,Canola (including rapeseed),471.77
 2021,Quebec,Canola (including rapeseed),572.74
-2001,Quebec,Fresh Potatoes,182.204
-2002,Quebec,Fresh Potatoes,270.1572
-2003,Quebec,Fresh Potatoes,185.2544
-2004,Quebec,Fresh Potatoes,160.5396
-2005,Quebec,Fresh Potatoes,184.1556
-2006,Quebec,Fresh Potatoes,251.658
-2007,Quebec,Fresh Potatoes,181.5972
-2008,Quebec,Fresh Potatoes,221.6788
-2009,Quebec,Fresh Potatoes,276.75
-2010,Quebec,Fresh Potatoes,246.4428
-2011,Quebec,Fresh Potatoes,291.51
-2012,Quebec,Fresh Potatoes,275.4872
-2013,Quebec,Fresh Potatoes,264.286
-2014,Quebec,Fresh Potatoes,265.762
-2015,Quebec,Fresh Potatoes,261.826
-2016,Quebec,Fresh Potatoes,270.9608
-2017,Quebec,Fresh Potatoes,306.188
-2018,Quebec,Fresh Potatoes,322.7356
-2019,Quebec,Fresh Potatoes,344.2852
-2020,Quebec,Fresh Potatoes,335.9376
+2001,Quebec,Fresh potatoes,182.204
+2002,Quebec,Fresh potatoes,270.1572
+2003,Quebec,Fresh potatoes,185.2544
+2004,Quebec,Fresh potatoes,160.5396
+2005,Quebec,Fresh potatoes,184.1556
+2006,Quebec,Fresh potatoes,251.658
+2007,Quebec,Fresh potatoes,181.5972
+2008,Quebec,Fresh potatoes,221.6788
+2009,Quebec,Fresh potatoes,276.75
+2010,Quebec,Fresh potatoes,246.4428
+2011,Quebec,Fresh potatoes,291.51
+2012,Quebec,Fresh potatoes,275.4872
+2013,Quebec,Fresh potatoes,264.286
+2014,Quebec,Fresh potatoes,265.762
+2015,Quebec,Fresh potatoes,261.826
+2016,Quebec,Fresh potatoes,270.9608
+2017,Quebec,Fresh potatoes,306.188
+2018,Quebec,Fresh potatoes,322.7356
+2019,Quebec,Fresh potatoes,344.2852
+2020,Quebec,Fresh potatoes,335.9376
 1985,Ontario,Oats,126.85
 1986,Ontario,Oats,100.83
 1987,Ontario,Oats,97.19
@@ -757,36 +757,36 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2007,Ontario,Rye,152.25
 2008,Ontario,Rye,281.6
 2009,Ontario,Rye,226
-2001,Ontario,Fresh Potatoes,198.5548
-2002,Ontario,Fresh Potatoes,349.6152
-2003,Ontario,Fresh Potatoes,243.9172
-2004,Ontario,Fresh Potatoes,224.188
-2005,Ontario,Fresh Potatoes,238.4068000656
-2006,Ontario,Fresh Potatoes,282.5719999344
-2007,Ontario,Fresh Potatoes,252.7404
-2008,Ontario,Fresh Potatoes,306.8112
-2009,Ontario,Fresh Potatoes,316.0116
-2010,Ontario,Fresh Potatoes,318.2911999344
-2011,Ontario,Fresh Potatoes,325.0644
-2012,Ontario,Fresh Potatoes,299.3491999344
-2013,Ontario,Fresh Potatoes,292.0512
-2014,Ontario,Fresh Potatoes,305.7288
-2015,Ontario,Fresh Potatoes,310.5175999344
-2016,Ontario,Fresh Potatoes,330.1483999344
-2017,Ontario,Fresh Potatoes,348.0571999344
-2018,Ontario,Fresh Potatoes,359.406
-2019,Ontario,Fresh Potatoes,364.3915999344
-2020,Ontario,Fresh Potatoes,369.1124572272
-2012,Manitoba,Wheat (Excluding Durum),289.17
-2013,Manitoba,Wheat (Excluding Durum),269.2
-2014,Manitoba,Wheat (Excluding Durum),215.26
-2015,Manitoba,Wheat (Excluding Durum),223.04
-2016,Manitoba,Wheat (Excluding Durum),228.06
-2017,Manitoba,Wheat (Excluding Durum),247.66
-2018,Manitoba,Wheat (Excluding Durum),250.63
-2019,Manitoba,Wheat (Excluding Durum),242.14
-2020,Manitoba,Wheat (Excluding Durum),239.88
-2021,Manitoba,Wheat (Excluding Durum),288.97
+2001,Ontario,Fresh potatoes,198.5548
+2002,Ontario,Fresh potatoes,349.6152
+2003,Ontario,Fresh potatoes,243.9172
+2004,Ontario,Fresh potatoes,224.188
+2005,Ontario,Fresh potatoes,238.4068000656
+2006,Ontario,Fresh potatoes,282.5719999344
+2007,Ontario,Fresh potatoes,252.7404
+2008,Ontario,Fresh potatoes,306.8112
+2009,Ontario,Fresh potatoes,316.0116
+2010,Ontario,Fresh potatoes,318.2911999344
+2011,Ontario,Fresh potatoes,325.0644
+2012,Ontario,Fresh potatoes,299.3491999344
+2013,Ontario,Fresh potatoes,292.0512
+2014,Ontario,Fresh potatoes,305.7288
+2015,Ontario,Fresh potatoes,310.5175999344
+2016,Ontario,Fresh potatoes,330.1483999344
+2017,Ontario,Fresh potatoes,348.0571999344
+2018,Ontario,Fresh potatoes,359.406
+2019,Ontario,Fresh potatoes,364.3915999344
+2020,Ontario,Fresh potatoes,369.1124572272
+2012,Manitoba,Wheat,289.17
+2013,Manitoba,Wheat,269.2
+2014,Manitoba,Wheat,215.26
+2015,Manitoba,Wheat,223.04
+2016,Manitoba,Wheat,228.06
+2017,Manitoba,Wheat,247.66
+2018,Manitoba,Wheat,250.63
+2019,Manitoba,Wheat,242.14
+2020,Manitoba,Wheat,239.88
+2021,Manitoba,Wheat,288.97
 1985,Manitoba,Oats,102.4
 1986,Manitoba,Oats,80.1
 1987,Manitoba,Oats,66.92
@@ -972,36 +972,36 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,Manitoba,Rye,236.58
 2020,Manitoba,Rye,222.89
 2021,Manitoba,Rye,232.21
-2001,Manitoba,Fresh Potatoes,154.9636
-2002,Manitoba,Fresh Potatoes,159.6376
-2003,Manitoba,Fresh Potatoes,152.2576
-2004,Manitoba,Fresh Potatoes,148.584
-2005,Manitoba,Fresh Potatoes,156.702
-2006,Manitoba,Fresh Potatoes,166.2796
-2007,Manitoba,Fresh Potatoes,171.708
-2008,Manitoba,Fresh Potatoes,200.244
-2009,Manitoba,Fresh Potatoes,218.9564
-2010,Manitoba,Fresh Potatoes,227.1892
-2011,Manitoba,Fresh Potatoes,184.0244
-2012,Manitoba,Fresh Potatoes,207.3452
-2013,Manitoba,Fresh Potatoes,229.108
-2014,Manitoba,Fresh Potatoes,242.146
-2015,Manitoba,Fresh Potatoes,237.2424
-2016,Manitoba,Fresh Potatoes,240.4568
-2017,Manitoba,Fresh Potatoes,258.4148
-2018,Manitoba,Fresh Potatoes,262.1376
-2019,Manitoba,Fresh Potatoes,281.8176
-2020,Manitoba,Fresh Potatoes,303.6061714848
-2012,Saskatchewan,Wheat (Excluding Durum),279.42
-2013,Saskatchewan,Wheat (Excluding Durum),260.86
-2014,Saskatchewan,Wheat (Excluding Durum),199.27
-2015,Saskatchewan,Wheat (Excluding Durum),210.87
-2016,Saskatchewan,Wheat (Excluding Durum),220
-2017,Saskatchewan,Wheat (Excluding Durum),229.97
-2018,Saskatchewan,Wheat (Excluding Durum),239.78
-2019,Saskatchewan,Wheat (Excluding Durum),231.89
-2020,Saskatchewan,Wheat (Excluding Durum),226.45
-2021,Saskatchewan,Wheat (Excluding Durum),284.17
+2001,Manitoba,Fresh potatoes,154.9636
+2002,Manitoba,Fresh potatoes,159.6376
+2003,Manitoba,Fresh potatoes,152.2576
+2004,Manitoba,Fresh potatoes,148.584
+2005,Manitoba,Fresh potatoes,156.702
+2006,Manitoba,Fresh potatoes,166.2796
+2007,Manitoba,Fresh potatoes,171.708
+2008,Manitoba,Fresh potatoes,200.244
+2009,Manitoba,Fresh potatoes,218.9564
+2010,Manitoba,Fresh potatoes,227.1892
+2011,Manitoba,Fresh potatoes,184.0244
+2012,Manitoba,Fresh potatoes,207.3452
+2013,Manitoba,Fresh potatoes,229.108
+2014,Manitoba,Fresh potatoes,242.146
+2015,Manitoba,Fresh potatoes,237.2424
+2016,Manitoba,Fresh potatoes,240.4568
+2017,Manitoba,Fresh potatoes,258.4148
+2018,Manitoba,Fresh potatoes,262.1376
+2019,Manitoba,Fresh potatoes,281.8176
+2020,Manitoba,Fresh potatoes,303.6061714848
+2012,Saskatchewan,Wheat,279.42
+2013,Saskatchewan,Wheat,260.86
+2014,Saskatchewan,Wheat,199.27
+2015,Saskatchewan,Wheat,210.87
+2016,Saskatchewan,Wheat,220
+2017,Saskatchewan,Wheat,229.97
+2018,Saskatchewan,Wheat,239.78
+2019,Saskatchewan,Wheat,231.89
+2020,Saskatchewan,Wheat,226.45
+2021,Saskatchewan,Wheat,284.17
 1985,Saskatchewan,Oats,100.51
 1986,Saskatchewan,Oats,78.84
 1987,Saskatchewan,Oats,62.43
@@ -1187,36 +1187,36 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,Saskatchewan,Rye,225.68
 2020,Saskatchewan,Rye,193.71
 2021,Saskatchewan,Rye,224.54
-2001,Saskatchewan,Fresh Potatoes,419.8564
-2002,Saskatchewan,Fresh Potatoes,417.544
-2003,Saskatchewan,Fresh Potatoes,388.340072727273
-2004,Saskatchewan,Fresh Potatoes,310.5996
-2005,Saskatchewan,Fresh Potatoes,348.944290909091
-2006,Saskatchewan,Fresh Potatoes,372.28
-2007,Saskatchewan,Fresh Potatoes,344.9904
-2008,Saskatchewan,Fresh Potatoes,397.3884
-2009,Saskatchewan,Fresh Potatoes,415.4612
-2010,Saskatchewan,Fresh Potatoes,432.6484
-2011,Saskatchewan,Fresh Potatoes,475.307781818182
-2012,Saskatchewan,Fresh Potatoes,443.80368
-2013,Saskatchewan,Fresh Potatoes,344.093866666667
-2014,Saskatchewan,Fresh Potatoes,354.204218181818
-2015,Saskatchewan,Fresh Potatoes,371.111127272727
-2016,Saskatchewan,Fresh Potatoes,383.437963636364
-2017,Saskatchewan,Fresh Potatoes,394.208290909091
-2018,Saskatchewan,Fresh Potatoes,459.814254545455
-2019,Saskatchewan,Fresh Potatoes,546.925090909091
-2020,Saskatchewan,Fresh Potatoes,515.9112
-2012,Alberta,Wheat (Excluding Durum),282.72
-2013,Alberta,Wheat (Excluding Durum),271.34
-2014,Alberta,Wheat (Excluding Durum),208.11
-2015,Alberta,Wheat (Excluding Durum),222.62
-2016,Alberta,Wheat (Excluding Durum),229.61
-2017,Alberta,Wheat (Excluding Durum),239.88
-2018,Alberta,Wheat (Excluding Durum),253.34
-2019,Alberta,Wheat (Excluding Durum),244.1
-2020,Alberta,Wheat (Excluding Durum),239.72
-2021,Alberta,Wheat (Excluding Durum),291.77
+2001,Saskatchewan,Fresh potatoes,419.8564
+2002,Saskatchewan,Fresh potatoes,417.544
+2003,Saskatchewan,Fresh potatoes,388.340072727273
+2004,Saskatchewan,Fresh potatoes,310.5996
+2005,Saskatchewan,Fresh potatoes,348.944290909091
+2006,Saskatchewan,Fresh potatoes,372.28
+2007,Saskatchewan,Fresh potatoes,344.9904
+2008,Saskatchewan,Fresh potatoes,397.3884
+2009,Saskatchewan,Fresh potatoes,415.4612
+2010,Saskatchewan,Fresh potatoes,432.6484
+2011,Saskatchewan,Fresh potatoes,475.307781818182
+2012,Saskatchewan,Fresh potatoes,443.80368
+2013,Saskatchewan,Fresh potatoes,344.093866666667
+2014,Saskatchewan,Fresh potatoes,354.204218181818
+2015,Saskatchewan,Fresh potatoes,371.111127272727
+2016,Saskatchewan,Fresh potatoes,383.437963636364
+2017,Saskatchewan,Fresh potatoes,394.208290909091
+2018,Saskatchewan,Fresh potatoes,459.814254545455
+2019,Saskatchewan,Fresh potatoes,546.925090909091
+2020,Saskatchewan,Fresh potatoes,515.9112
+2012,Alberta,Wheat,282.72
+2013,Alberta,Wheat,271.34
+2014,Alberta,Wheat,208.11
+2015,Alberta,Wheat,222.62
+2016,Alberta,Wheat,229.61
+2017,Alberta,Wheat,239.88
+2018,Alberta,Wheat,253.34
+2019,Alberta,Wheat,244.1
+2020,Alberta,Wheat,239.72
+2021,Alberta,Wheat,291.77
 1985,Alberta,Oats,105.04
 1986,Alberta,Oats,82.78
 1987,Alberta,Oats,66.37
@@ -1402,36 +1402,36 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,Alberta,Rye,234.85
 2020,Alberta,Rye,210.49
 2021,Alberta,Rye,235.6
-2001,Alberta,Fresh Potatoes,163.7704
-2002,Alberta,Fresh Potatoes,177.5136
-2003,Alberta,Fresh Potatoes,190.6828
-2004,Alberta,Fresh Potatoes,169.904
-2005,Alberta,Fresh Potatoes,174.7584
-2006,Alberta,Fresh Potatoes,171.2652
-2007,Alberta,Fresh Potatoes,165.6564
-2008,Alberta,Fresh Potatoes,190.6172
-2009,Alberta,Fresh Potatoes,216.5948
-2010,Alberta,Fresh Potatoes,201.146
-2011,Alberta,Fresh Potatoes,205.2624
-2012,Alberta,Fresh Potatoes,220.1044000656
-2013,Alberta,Fresh Potatoes,202.9336000656
-2014,Alberta,Fresh Potatoes,220.5799999344
-2015,Alberta,Fresh Potatoes,248.5255999344
-2016,Alberta,Fresh Potatoes,241.4899999344
-2017,Alberta,Fresh Potatoes,244.9339999344
-2018,Alberta,Fresh Potatoes,249.5095999344
-2019,Alberta,Fresh Potatoes,267.2215999344
-2020,Alberta,Fresh Potatoes,276.1666285152
-2012,British Columbia,Wheat (Excluding Durum),282.72
-2013,British Columbia,Wheat (Excluding Durum),271.34
-2014,British Columbia,Wheat (Excluding Durum),208.11
-2015,British Columbia,Wheat (Excluding Durum),222.62
-2016,British Columbia,Wheat (Excluding Durum),229.61
-2017,British Columbia,Wheat (Excluding Durum),239.88
-2018,British Columbia,Wheat (Excluding Durum),253.34
-2019,British Columbia,Wheat (Excluding Durum),244.1
-2020,British Columbia,Wheat (Excluding Durum),239.72
-2021,British Columbia,Wheat (Excluding Durum),291.77
+2001,Alberta,Fresh potatoes,163.7704
+2002,Alberta,Fresh potatoes,177.5136
+2003,Alberta,Fresh potatoes,190.6828
+2004,Alberta,Fresh potatoes,169.904
+2005,Alberta,Fresh potatoes,174.7584
+2006,Alberta,Fresh potatoes,171.2652
+2007,Alberta,Fresh potatoes,165.6564
+2008,Alberta,Fresh potatoes,190.6172
+2009,Alberta,Fresh potatoes,216.5948
+2010,Alberta,Fresh potatoes,201.146
+2011,Alberta,Fresh potatoes,205.2624
+2012,Alberta,Fresh potatoes,220.1044000656
+2013,Alberta,Fresh potatoes,202.9336000656
+2014,Alberta,Fresh potatoes,220.5799999344
+2015,Alberta,Fresh potatoes,248.5255999344
+2016,Alberta,Fresh potatoes,241.4899999344
+2017,Alberta,Fresh potatoes,244.9339999344
+2018,Alberta,Fresh potatoes,249.5095999344
+2019,Alberta,Fresh potatoes,267.2215999344
+2020,Alberta,Fresh potatoes,276.1666285152
+2012,British Columbia,Wheat,282.72
+2013,British Columbia,Wheat,271.34
+2014,British Columbia,Wheat,208.11
+2015,British Columbia,Wheat,222.62
+2016,British Columbia,Wheat,229.61
+2017,British Columbia,Wheat,239.88
+2018,British Columbia,Wheat,253.34
+2019,British Columbia,Wheat,244.1
+2020,British Columbia,Wheat,239.72
+2021,British Columbia,Wheat,291.77
 1985,British Columbia,Oats,118.41
 1986,British Columbia,Oats,98.41
 1987,British Columbia,Oats,75.69
@@ -1580,26 +1580,26 @@ Year,Province,Crop Type,Dollars Per Metric Tonne
 2019,British Columbia,Rye,234.85
 2020,British Columbia,Rye,210.49
 2021,British Columbia,Rye,235.6
-2001,British Columbia,Fresh Potatoes,421.644
-2002,British Columbia,Fresh Potatoes,500.6592
-2003,British Columbia,Fresh Potatoes,451.602327272727
-2004,British Columbia,Fresh Potatoes,421.7096
-2005,British Columbia,Fresh Potatoes,397.26048
-2006,British Columbia,Fresh Potatoes,366.2612
-2007,British Columbia,Fresh Potatoes,366.334254545455
-2008,British Columbia,Fresh Potatoes,399.094
-2009,British Columbia,Fresh Potatoes,423.3824
-2010,British Columbia,Fresh Potatoes,442.34736
-2011,British Columbia,Fresh Potatoes,506.781866666667
-2012,British Columbia,Fresh Potatoes,447.558981818182
-2013,British Columbia,Fresh Potatoes,438.613527272727
-2014,British Columbia,Fresh Potatoes,438.1483635648
-2015,British Columbia,Fresh Potatoes,503.6827635648
-2016,British Columbia,Fresh Potatoes,500.5876364352
-2017,British Columbia,Fresh Potatoes,521.358981818182
-2018,British Columbia,Fresh Potatoes,531.664145454545
-2019,British Columbia,Fresh Potatoes,592.672145454546
-2020,British Columbia,Fresh Potatoes,623.7904
+2001,British Columbia,Fresh potatoes,421.644
+2002,British Columbia,Fresh potatoes,500.6592
+2003,British Columbia,Fresh potatoes,451.602327272727
+2004,British Columbia,Fresh potatoes,421.7096
+2005,British Columbia,Fresh potatoes,397.26048
+2006,British Columbia,Fresh potatoes,366.2612
+2007,British Columbia,Fresh potatoes,366.334254545455
+2008,British Columbia,Fresh potatoes,399.094
+2009,British Columbia,Fresh potatoes,423.3824
+2010,British Columbia,Fresh potatoes,442.34736
+2011,British Columbia,Fresh potatoes,506.781866666667
+2012,British Columbia,Fresh potatoes,447.558981818182
+2013,British Columbia,Fresh potatoes,438.613527272727
+2014,British Columbia,Fresh potatoes,438.1483635648
+2015,British Columbia,Fresh potatoes,503.6827635648
+2016,British Columbia,Fresh potatoes,500.5876364352
+2017,British Columbia,Fresh potatoes,521.358981818182
+2018,British Columbia,Fresh potatoes,531.664145454545
+2019,British Columbia,Fresh potatoes,592.672145454546
+2020,British Columbia,Fresh potatoes,623.7904
 1985,All,Tame Hay,63
 1986,All,Tame Hay,61
 1987,All,Tame Hay,48
