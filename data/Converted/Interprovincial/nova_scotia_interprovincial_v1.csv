@@ -1,0 +1,25 @@
+"","REF_DATE","GEO","DGUID","Trade.flow.detail","Product","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Metric.Tonnes","Kilograms","Seeded.Area","Nitrogen.Applied"
+"181",2010,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",448,NA,NA,NA,0,1688.74092301754,1688740.92301754,NA,NA
+"182",2011,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",462,NA,NA,NA,0,1546.61021204629,1546610.21204629,NA,NA
+"183",2012,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",534,NA,NA,NA,0,1712.17357549723,1712173.57549723,NA,NA
+"184",2013,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",863,NA,NA,NA,0,2943.62660254911,2943626.60254911,NA,NA
+"185",2014,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",982,NA,NA,NA,0,3307.93581212182,3307935.81212182,NA,NA
+"186",2015,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",1049,NA,NA,NA,0,3194.97575595137,3194975.75595137,NA,NA
+"187",2016,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",1527,NA,NA,NA,0,4732.99052472034,4732990.52472034,NA,NA
+"188",2017,"Nova Scotia","2016A000212","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113674605","4.18.8",1817,NA,NA,NA,0,5493.62503665944,5493625.03665944,NA,NA
+"165",2010,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",984,NA,NA,NA,0,NA,NA,NA,NA
+"166",2011,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",2402,NA,NA,NA,0,NA,NA,NA,NA
+"167",2012,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",2376,NA,NA,NA,0,NA,NA,NA,NA
+"168",2013,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",2203,NA,NA,NA,0,NA,NA,NA,NA
+"169",2014,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",152,NA,NA,NA,0,NA,NA,NA,NA
+"170",2015,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",145,NA,NA,NA,0,NA,NA,NA,NA
+"171",2016,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",169,NA,NA,NA,0,NA,NA,NA,NA
+"172",2017,"Nova Scotia","2016A000212","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113674603","4.18.5",75,NA,NA,NA,0,NA,NA,NA,NA
+"173",2010,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",397,NA,NA,NA,0,1776.92238832692,1776922.38832692,470.556315259776,43526.4591615293
+"174",2011,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",313,NA,NA,NA,0,1190.47619047619,1190476.19047619,315.256363066269,29161.2135836298
+"175",2012,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",299,NA,NA,NA,0,1082.6664735489,1082666.4735489,286.70669568644,26520.3693509957
+"176",2013,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",158,NA,NA,NA,0,585.163512462501,585163.512462501,154.96027741993,14333.8256613435
+"177",2014,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",487,NA,NA,NA,0,1791.95643374913,1791956.43374913,474.537561184638,43894.7244095791
+"178",2015,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",846,NA,NA,NA,0,3258.48322612949,3258483.22612949,862.896359624901,79817.9132653034
+"179",2016,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",414,NA,NA,NA,0,1683.67969417219,1683679.69417219,445.864219040732,41242.4402612677
+"180",2017,"Nova Scotia","2016A000212","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113674604","4.18.6",495,NA,NA,NA,0,2167.15555360974,2167155.55360974,573.896045545092,53085.384212921

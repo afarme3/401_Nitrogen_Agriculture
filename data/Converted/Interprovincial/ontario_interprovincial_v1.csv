@@ -1,0 +1,33 @@
+"","REF_DATE","GEO","DGUID","Trade.flow.detail","Product","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Metric.Tonnes","Kilograms","Seeded.Area","Nitrogen.Applied"
+"561",2010,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",1824,NA,NA,NA,0,5730.60141271869,5730601.41271869,NA,NA
+"562",2011,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",1632,NA,NA,NA,0,5020.54362151008,5020543.62151008,NA,NA
+"563",2012,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",1474,NA,NA,NA,0,4924.01516464054,4924015.16464054,NA,NA
+"564",2013,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",1753,NA,NA,NA,0,6002.37218679464,6002372.18679464,NA,NA
+"565",2014,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",1251,NA,NA,NA,0,4091.86180693477,4091861.80693477,NA,NA
+"566",2015,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",936,NA,NA,NA,0,3014.32189414622,3014321.89414622,NA,NA
+"567",2016,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",725,NA,NA,NA,0,2195.98217087848,2195982.17087848,NA,NA
+"568",2017,"Ontario","2016A000235","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113693106","7.18.8",595,NA,NA,NA,0,1709.4891302698,1709489.1302698,NA,NA
+"553",2010,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",316175,NA,NA,NA,0,2562910.56826214,2562910568.26214,NA,NA
+"554",2011,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",188642,NA,NA,NA,0,1529129.67634413,1529129676.34413,NA,NA
+"555",2012,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",265333,NA,NA,NA,0,2150785.95653894,2150785956.53894,NA,NA
+"556",2013,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",186126,NA,NA,NA,0,1508735.01202929,1508735012.02929,NA,NA
+"557",2014,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",327794,NA,NA,NA,0,2657094.03593871,2657094035.93871,NA,NA
+"558",2015,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",465810,NA,NA,NA,0,3775849.99383945,3775849993.83945,NA,NA
+"559",2016,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",239508,NA,NA,NA,0,1941448.8317651,1941448831.76509,NA,NA
+"560",2017,"Ontario","2016A000235","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113693105","7.18.7",284514,NA,NA,NA,0,2306266.90098374,2306266900.98374,NA,NA
+"537",2010,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",6393,NA,NA,NA,0,NA,NA,NA,NA
+"538",2011,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",93740,NA,NA,NA,0,NA,NA,NA,NA
+"539",2012,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",132204,NA,NA,NA,0,NA,NA,NA,NA
+"540",2013,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",131567,NA,NA,NA,0,NA,NA,NA,NA
+"541",2014,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",174833,NA,NA,NA,0,NA,NA,NA,NA
+"542",2015,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",75773,NA,NA,NA,0,NA,NA,NA,NA
+"543",2016,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",55196,NA,NA,NA,0,NA,NA,NA,NA
+"544",2017,"Ontario","2016A000235","Interprovincial exports","Oilseeds (except canola) [MPG111A02]","Dollars",81,"thousands",3,"v113693103","7.18.5",221390,NA,NA,NA,0,NA,NA,NA,NA
+"545",2010,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",9641,NA,NA,NA,0,NA,NA,NA,NA
+"546",2011,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",22352,NA,NA,NA,0,NA,NA,NA,NA
+"547",2012,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",7144,NA,NA,NA,0,NA,NA,NA,NA
+"548",2013,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",1615,NA,NA,NA,0,NA,NA,NA,NA
+"549",2014,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",5277,NA,NA,NA,0,NA,NA,NA,NA
+"550",2015,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",6777,NA,NA,NA,0,NA,NA,NA,NA
+"551",2016,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",4971,NA,NA,NA,0,NA,NA,NA,NA
+"552",2017,"Ontario","2016A000235","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113693104","7.18.6",6387,NA,NA,NA,0,NA,NA,NA,NA

@@ -1,0 +1,25 @@
+"","REF_DATE","GEO","DGUID","Trade.flow.detail","Product","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Metric.Tonnes","Kilograms","Seeded.Area","Nitrogen.Applied"
+"421",2010,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",10694,NA,NA,NA,0,43393.4365296937,43393436.5296937,NA,NA
+"422",2011,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9412,NA,NA,NA,0,32287.0570477857,32287057.0477857,NA,NA
+"423",2012,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14015,NA,NA,NA,0,50873.5070086741,50873507.0086741,NA,NA
+"424",2013,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",12564,NA,NA,NA,0,47539.4080655048,47539408.0655048,NA,NA
+"425",2014,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9368,NA,NA,NA,0,35249.5842144475,35249584.2144475,NA,NA
+"426",2015,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14755,NA,NA,NA,0,56354.2199781534,56354219.9781534,NA,NA
+"427",2016,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",18217,NA,NA,NA,0,67231.1271593529,67231127.1593529,NA,NA
+"428",2017,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",26123,NA,NA,NA,0,85316.8641488236,85316864.1488236,NA,NA
+"413",2010,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",173885,NA,NA,NA,0,NA,NA,NA,NA
+"414",2011,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",159430,NA,NA,NA,0,NA,NA,NA,NA
+"415",2012,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",337040,NA,NA,NA,0,NA,NA,NA,NA
+"416",2013,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",257951,NA,NA,NA,0,NA,NA,NA,NA
+"417",2014,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",70004,NA,NA,NA,0,NA,NA,NA,NA
+"418",2015,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",151981,NA,NA,NA,0,NA,NA,NA,NA
+"419",2016,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",159387,NA,NA,NA,0,NA,NA,NA,NA
+"420",2017,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",161748,NA,NA,NA,0,NA,NA,NA,NA
+"405",2010,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",3260,NA,NA,NA,0,24392.0688365133,24392068.8365133,8004.91863825118,840516.457016374
+"406",2011,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",5185,NA,NA,NA,0,24914.7085675845,24914708.5675845,8176.43703434883,858525.888606627
+"407",2012,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",5113,NA,NA,NA,0,18604.9050287461,18604905.0287461,6105.70394933305,641098.91467997
+"408",2013,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",12511,NA,NA,NA,0,45986.1795192237,45986179.5192237,15091.611457916,1584619.20308118
+"409",2014,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",5724,NA,NA,NA,0,22787.5313507703,22787531.3507703,7478.34616457197,785226.347280057
+"410",2015,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",5127,NA,NA,NA,0,19772.4643270343,19772464.3270343,6488.87018466854,681331.369390197
+"411",2016,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",7625,NA,NA,NA,0,32857.8815823494,32857881.5823494,10783.2045922349,1132236.48218466
+"412",2017,"Quebec","2016A000224","Interprovincial exports","Wheat [MPG111A03]","Dollars",81,"thousands",3,"v113686079","6.18.6",5619,NA,NA,NA,0,23560.7362992159,23560736.2992159,7732.09432937441,811869.904584313
