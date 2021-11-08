@@ -1,12 +1,12 @@
 "","REF_DATE","GEO","DGUID","Trade.flow.detail","Product","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Metric.Tonnes","Kilograms","Seeded.Area","Nitrogen.Applied"
-"421",2010,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",10694,NA,NA,NA,0,43393.4365296937,43393436.5296937,NA,NA
-"422",2011,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9412,NA,NA,NA,0,32287.0570477857,32287057.0477857,NA,NA
-"423",2012,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14015,NA,NA,NA,0,50873.5070086741,50873507.0086741,NA,NA
-"424",2013,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",12564,NA,NA,NA,0,47539.4080655048,47539408.0655048,NA,NA
-"425",2014,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9368,NA,NA,NA,0,35249.5842144475,35249584.2144475,NA,NA
-"426",2015,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14755,NA,NA,NA,0,56354.2199781534,56354219.9781534,NA,NA
-"427",2016,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",18217,NA,NA,NA,0,67231.1271593529,67231127.1593529,NA,NA
-"428",2017,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",26123,NA,NA,NA,0,85316.8641488236,85316864.1488236,NA,NA
+"421",2010,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",10694,NA,NA,NA,0,43393.4365296937,43393436.5296937,1422.54491428832,213381.737143248
+"422",2011,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9412,NA,NA,NA,0,32287.0570477857,32287057.0477857,1045.23893763096,156785.840644643
+"423",2012,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14015,NA,NA,NA,0,50873.5070086741,50873507.0086741,1692.93399224449,253940.098836674
+"424",2013,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",12564,NA,NA,NA,0,47539.4080655048,47539408.0655048,1543.54120057072,231531.180085608
+"425",2014,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",9368,NA,NA,NA,0,35249.5842144475,35249584.2144475,1123.4120076641,168511.801149614
+"426",2015,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",14755,NA,NA,NA,0,56354.2199781534,56354219.9781534,1649.38307312877,247407.460969315
+"427",2016,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",18217,NA,NA,NA,0,67231.1271593529,67231127.1593529,2011.79849372074,301769.774058111
+"428",2017,"Quebec","2016A000224","Interprovincial exports","Fresh potatoes [MPG111A05]","Dollars",81,"thousands",3,"v113686081","6.18.8",26123,NA,NA,NA,0,85316.8641488236,85316864.1488236,2512.91217485068,376936.826227602
 "413",2010,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",173885,NA,NA,NA,0,NA,NA,NA,NA
 "414",2011,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",159430,NA,NA,NA,0,NA,NA,NA,NA
 "415",2012,"Quebec","2016A000224","Interprovincial exports","Grains (except wheat) [MPG111A04]","Dollars",81,"thousands",3,"v113686080","6.18.7",337040,NA,NA,NA,0,NA,NA,NA,NA

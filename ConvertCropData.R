@@ -100,12 +100,14 @@ saskatchewanConverted <- convertPriceToWeight("Saskatchewan")
 #
 #Import conversion factors
 yields <- read.csv("./data/Conversions/kg-ha/Full_Yield_v2.csv")
+potatoes <- read.csv("./data/Conversions/kg-ha/potatoes_v2.csv")
 
 #Create a function which converts the weights to seeded area
 convertWeightToArea <- function(province, provincialDF){
   
   #Get the conversion factors for the province of interest
   provincialYields <- yields[yields$GEO == province,]
+  provincialPotatoes <- potatoes[potatoes$GEO == province,]
   
   #Extract the crops of interest from the data frame
   crops <- str_sub(levels(provincialDF$Product), end=-13)
@@ -117,7 +119,13 @@ convertWeightToArea <- function(province, provincialDF){
   for (crop in crops){
     #Get data frames with just the crops of interest
     provincial_byCrop <- provincialDF[str_sub(provincialDF$Product, end=-13) == crop,]
+    
+    #Special case for potatoes, otherwise use provincialYields
+    if (crop == "Fresh potatoes"){
+      yields_byCrop <- provincialPotatoes
+    } else{
     yields_byCrop <- provincialYields[provincialYields$Type.of.crop == crop,]
+    }
     
     #Edge case: use Rye factor for grains excluding wheat, use flaxseed for oilseeds excluding canola
     if(crop == "Grains (except wheat)"){
@@ -133,6 +141,10 @@ convertWeightToArea <- function(province, provincialDF){
     
     #Create an average yield conversion factor in case there are missing values
     averageYield <- mean(yields_byCrop$VALUE)
+    #Special case for potatoes
+    if (crop == "Fresh potatoes"){
+      averageYield <- mean(yields_byCrop$KG_HA)
+    }
     
     #Iterate over years
     years <- provincial_byCrop$REF_DATE
@@ -140,6 +152,11 @@ convertWeightToArea <- function(province, provincialDF){
       #Get the yearly mass value and convert to seeded area, add to vector
       massValue <- provincial_byCrop$Kilograms[provincial_byCrop$REF_DATE == year]
       areaValue <- massValue / yields_byCrop$VALUE[yields_byCrop$Year == year]
+      
+      #Special case for potatoes
+      if (crop == "Fresh potatoes"){
+        areaValue <- massValue / yields_byCrop$KG_HA[yields_byCrop$REF_DATE == year]
+      }
       
       #Catch missing conversion values by using the conversion by utilizing the overall average
       if (length(areaValue) == 0){
