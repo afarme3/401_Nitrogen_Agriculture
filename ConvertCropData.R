@@ -45,6 +45,9 @@ convertPriceToWeight <- function(province){
       prices_byCrop <- provincialPrices[provincialPrices$Crop.Type == "Flaxseed",]
     }
     
+    #Get an average price-to-mass in the case of missing values
+    priceAvg <- mean(prices_byCrop$Dollars.Per.Metric.Tonne)
+    
     #Iterate through years to perform year-by-year conversion, initialize output vector
     years <- provincial_byCrop$REF_DATE
     MetricTonnes <- vector(mode="numeric")
@@ -56,7 +59,7 @@ convertPriceToWeight <- function(province){
       
       #Replaces empty values with NA if the conversion factor DNE for that year. 
       if(length(metricTonValue) == 0){
-        metricTonValue <- NA
+        metricTonValue <- dollarValue / priceAvg
       }
       #Append the MetricTonnes vector with the MetricTonValue,
       MetricTonnes <- c(MetricTonnes, metricTonValue)
@@ -173,6 +176,104 @@ ontarioConverted_2 <- convertWeightToArea("Ontario", ontarioConverted)
 peiConverted_2 <- convertWeightToArea("Prince Edward Island", peiConverted)
 quebecConverted_2 <- convertWeightToArea("Quebec", quebecConverted)
 saskatchewanConverted_2 <- convertWeightToArea("Saskatchewan", saskatchewanConverted)
+
+#
+# Convert seeded area to nitrogen applied
+#
+#Import conversion factors, melt into vertical format
+applications <- read.csv("./data/Conversions/recommended_fertilizer.csv")
+rates <- melt(applications)
+
+#Create a function to convert from seeded area to nitrogen applied
+convertAreaToN <- function(province, provincialDF){
+  
+  #Correct province name if province selected is one of the atlantic provinces or BC
+  atlanticProvinces <- c("New Brunswick", "Newfoundland and Labrador", "Nova Scotia", "Prince Edward Island")
+  if(any(grepl(province, atlanticProvinces))){
+    provinceName <- "Atlantic.provinces"
+  } else if(province == "British Columbia"){
+    provinceName <- "British.Columbia"
+  } else{
+    provinceName <- province
+  }
+  
+  #Extract the crops of interest from the data frame
+  crops <- str_sub(levels(provincialDF$Product), end=-13)
+  
+  #Extract only the province of interest from the conversion table
+  rates_byProvince <- rates[rates$variable == provinceName,]
+  
+  #Initialize an index variable
+  i <- 0
+  
+  #Iterate over crops of interest
+  for (crop in crops){
+    #Get data frames with just the crops of interest
+    provincial_byCrop <- provincialDF[str_sub(provincialDF$Product, end=-13) == crop,]
+    rate_byCrop <- rates_byProvince[rates_byProvince$Crop == crop,]
+    
+    #Edge case: use Cereal factor for grains excluding wheat, use flaxseed for oilseeds excluding canola
+    if(crop == "Grains (except wheat)"){
+      rate_byCrop <- rates_byProvince[rates_byProvince$Crop == "Cereals",]
+    }
+    if(crop == "Oilseeds (except canola)"){
+      rate_byCrop <- rates_byProvince[rates_byProvince$Crop == "Flaxseed",]
+    }
+    
+    #Initialize empty vector to store converted results
+    nitrogenApplied <- vector(mode="numeric")
+    
+    #Iterate over years
+    years <- provincial_byCrop$REF_DATE
+    for (year in years){
+      #Get the yearly mass value and convert to seeded area, add to vector
+      areaValue <- provincial_byCrop$Seeded.Area[provincial_byCrop$REF_DATE == year]
+      nValue <- areaValue * rate_byCrop$value
+      
+      #Set missing values to NA
+      if (length(nValue) == 0){
+        nValue <- NA
+      }
+      #Append output vector
+      nitrogenApplied <- c(nitrogenApplied, nValue)
+    }
+    
+    #Update provincial_byCrop with the seededArea vector
+    provincial_byCrop$Nitrogen.Applied <- nitrogenApplied
+    
+    #Create a new data frame on first run, or merge with existing on later runs
+    if (i==0) {
+      outputDF <- provincial_byCrop
+    } else {
+      outputDF <- rbind(outputDF, provincial_byCrop)
+    }
+    i <- i+1
+  }
+  return(outputDF)
+}
+
+albertaConverted_3 <- convertAreaToN("Alberta", albertaConverted_2)
+manitobaConverted_3 <- convertAreaToN("Manitoba", manitobaConverted_2)
+bcConverted_3 <- convertAreaToN("British Columbia", bcConverted_2)
+nbConverted_3 <- convertAreaToN("New Brunswick", nbConverted_2)
+nalConverted_3 <- convertAreaToN("Newfoundland and Labrador", nalConverted_2)
+nsConverted_3 <- convertAreaToN("Nova Scotia", nsConverted_2)
+ontarioConverted_3 <- convertAreaToN("Ontario", ontarioConverted_2)
+peiConverted_3 <- convertAreaToN("Prince Edward Island", peiConverted_2)
+quebecConverted_3 <- convertAreaToN("Quebec", quebecConverted_2)
+saskatchewanConverted_3 <- convertAreaToN("Saskatchewan", saskatchewanConverted_2)
+
+#Output final converted data frames to file
+write.csv(albertaConverted_3, "./data/Converted/Interprovincial/alberta_interprovincial_v1.csv")
+write.csv(manitobaConverted_3, "./data/Converted/Interprovincial/manitoba_interprovincial_v1.csv")
+write.csv(bcConverted_3, "./data/Converted/Interprovincial/bc_interprovincial_v1.csv")
+write.csv(nbConverted_3, "./data/Converted/Interprovincial/new_brunswick_interprovincial_v1.csv")
+write.csv(nalConverted_3, "./data/Converted/Interprovincial/newfoundland_and_labrador_interprovincial_v1.csv")
+write.csv(nsConverted_3, "./data/Converted/Interprovincial/nova_scotia_interprovincial_v1.csv")
+write.csv(ontarioConverted_3, "./data/Converted/Interprovincial/ontario_interprovincial_v1.csv")
+write.csv(peiConverted_3, "./data/Converted/Interprovincial/pei_interprovincial_v1.csv")
+write.csv(quebecConverted_3, "./data/Converted/Interprovincial/quebec_interprovincial_v1.csv")
+write.csv(saskatchewanConverted_3, "./data/Converted/Interprovincial/saskatchewan_interprovincial_v1.csv")
 
 
 
