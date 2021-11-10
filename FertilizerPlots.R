@@ -3,16 +3,16 @@
 library(ggplot2)
 
 #Import Data for Fertilizer Seeded Area
-quebec <- read.csv("./data/fertilizer/QUEBEC.csv")
-alberta <- read.csv("./data/fertilizer/ALBERTA.csv")
-bc <- read.csv("./data/fertilizer/BC.csv")
-newBrunswick <- read.csv("./data/fertilizer/NEW BRUNSWICK.csv")
-NaL <- read.csv("./data/fertilizer/NEWFOUNDLAND AND LABRADOR.csv")
-novaScotia <- read.csv("./data/fertilizer/NOVA SCOTIA.csv")
-ontario <- read.csv("./data/fertilizer/ONTARIO.csv")
-pei <- read.csv("./data/fertilizer/PRINCE EDWARD ISLAND.csv")
-manitoba <- read.csv("./data/fertilizer/MANITOBA.csv")
-saskatchewan <- read.csv("./data/fertilizer/SASKATCHEWAN.csv")
+quebec <- read.csv("./data/Raw/fertilizer/QUEBEC.csv")
+alberta <- read.csv("./data/Raw/fertilizer/ALBERTA.csv")
+bc <- read.csv("./data/Raw/fertilizer/BC.csv")
+newBrunswick <- read.csv("./data/Raw/fertilizer/NEW BRUNSWICK.csv")
+NaL <- read.csv("./data/Raw/fertilizer/NEWFOUNDLAND AND LABRADOR.csv")
+novaScotia <- read.csv("./data/Raw/fertilizer/NOVA SCOTIA.csv")
+ontario <- read.csv("./data/Raw/fertilizer/ONTARIO.csv")
+pei <- read.csv("./data/Raw/fertilizer/PRINCE EDWARD ISLAND.csv")
+manitoba <- read.csv("./data/Raw/fertilizer/MANITOBA.csv")
+saskatchewan <- read.csv("./data/Raw/fertilizer/SASKATCHEWAN.csv")
 
 #Create Plots
 #Quebec
