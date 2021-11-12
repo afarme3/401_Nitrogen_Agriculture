@@ -358,13 +358,13 @@ convertIntlMassToArea <- function(province){
     } else if (crop == "Rye"){
       names <- c("Wheat and meslin, other than durum wheat, other than seed for sowing", "Wheat, nes and meslin, o/t certified organic, o/t seed for sowing", "Wheat, nes and meslin, other than seed for sowing", "Meslin")
     } else if (crop == "Wheat"){
-      names <- c("winter wheat, except seed", "wheat, exc seed", "Wheat, nes and meslin, o/t certified organic", "Wheat, nes (Terminated 2011-12)", "Wheat nes, except seed")
+      names <- c("wheat, exc seed", "Wheat, nes and meslin, o/t certified organic", "Wheat, nes (Terminated 2011-12)", "Wheat nes, except seed")
     } else if (crop == "Wheat, durum"){
       names <- c("Wheat, durum", "Durum wheat, o/t certified organic", "Durum wheat (Terminated 2014-12)", "Durum wheat, other than seed for sowing", "Durum wheat, except seed")
     } else if (crop == "Wheat, spring"){
       names <- c("spring wheat, o/t", "spring wheat, exc", "spring wheat, nes, other than seed for sowing", "spring wheat, grade 2, other than seed for sowing", "spring wheat, other")
     } else if (crop == "Wheat, winter remaining"){
-      names <- c("winter wheat, other", "winter wheat, o/t", "winter wheat, exc")
+      names <- c("winter wheat, except seed", "winter wheat, other", "winter wheat, o/t", "winter wheat, exc")
     } else if (crop == "Fresh potatoes"){
       names <- c("Potatoes, fresh")
     } else {
@@ -422,12 +422,14 @@ convertIntlMassToArea <- function(province){
         outputDF <- rbind(outputDF, byCrop_output)
       }
       i <- i+1
+      rm(byCrop_output)
     }
   }
   
   return(outputDF)
 }
 
+#Perform mass-to-area conversions for the international data
 albertaIntl <- convertIntlMassToArea("Alberta")
 manitobaIntl <- convertIntlMassToArea("Manitoba")
 bcIntl <- convertIntlMassToArea("British Columbia")
@@ -438,5 +440,92 @@ ontarioIntl <- convertIntlMassToArea("Ontario")
 peiIntl <- convertIntlMassToArea("Prince Edward Island")
 quebecIntl <- convertIntlMassToArea("Quebec")
 saskatchewanIntl <- convertIntlMassToArea("Saskatchewan")
+
+#Import conversion data
+applications <- read.csv("./data/Conversions/recommended_fertilizer.csv")
+rates <- melt(applications)
+
+#Create a function to perform area-to-nitrogen conversions for international data
+convertIntlAreaToN <- function(province, provincialDF){
+  #Correct province name if province selected is one of the atlantic provinces or BC
+  atlanticProvinces <- c("New Brunswick", "Newfoundland and Labrador", "Nova Scotia", "Prince Edward Island")
+  if(any(grepl(province, atlanticProvinces))){
+    provinceName <- "Atlantic.provinces"
+  } else if(province == "British Columbia"){
+    provinceName <- "British.Columbia"
+  } else{
+    provinceName <- province
+  }
+  
+  #Extract only the province of interest from the conversion table
+  rates_byProvince <- rates[rates$variable == provinceName,]
+  
+  #Extract the crops of interest from the yields conversion table
+  crops <- c("Canola (including rapeseed)", "Corn for Grain", "Flaxseed", "Oats", "Cereals", "Fresh potatoes", "Winter wheat", "Spring wheat")
+  
+  #Create an index variable
+  i <- 0
+  
+  #Iterate over the crops of interest
+  for (crop in crops){
+    
+    #Setup names vector for grep based on type of crop
+    if (crop == "Barley"){
+        names <- c()
+    } else if (crop == "Canola (including rapeseed)"){
+      names <- c("Rape")
+    } else if (crop == "Corn for grain"){
+      names <- c("Corn")
+    } else if (crop == "Flaxseed"){
+      names <- c("Oil seeds") 
+    } else if (crop == "Oats"){
+      names <- c("Oats, other than seed for sowing", "Oat, o/t certified organic, o/t seed for sowing", "Oats, except seed")
+    } else if (crop == "Cereals"){
+      names <- c("Barley, o/t certified organic, o/t seed for sowing", "Barley, except seed", "Barley (Terminated 1998-12)", "Wheat and meslin, other than durum wheat, other than seed for sowing", "Wheat, nes and meslin, o/t certified organic, o/t seed for sowing", "Wheat, nes and meslin, other than seed for sowing", "Meslin")
+    } else if (crop == "Wheat"){
+      names <- c("Wheat, durum", "Durum wheat, o/t certified organic", "Durum wheat (Terminated 2014-12)", "Durum wheat, other than seed for sowing", "Durum wheat, except seed", "wheat, exc seed", "Wheat, nes and meslin, o/t certified organic", "Wheat, nes (Terminated 2011-12)", "Wheat nes, except seed")
+    } else if (crop == "Spring wheat"){
+      names <- c("spring wheat, o/t", "spring wheat, exc", "spring wheat, nes, other than seed for sowing", "spring wheat, grade 2, other than seed for sowing", "spring wheat, other")
+    } else if (crop == "Winter wheat"){
+      names <- c("winter wheat, except seed", "winter wheat, other", "winter wheat, o/t", "winter wheat, exc")
+    } else if (crop == "Fresh potatoes"){
+      names <- c("Potatoes, fresh")
+    } else {
+      names <- c("NA")
+    }
+    
+    #Get data frames with just the crops of interest by using grepL to 
+    provincial_byCrop <- provincialDF[grepl(paste(names, collapse="|"), provincialDF$Commodity),]
+    nValues <- provincial_byCrop$Seeded.Area * rates_byProvince$value[rates_byProvince$Crop == crop]
+    
+    #Create by crop output df
+    byCrop_output <- provincial_byCrop
+    byCrop_output$Nitrogen.Applied <- nValues
+    
+    #Create a new data frame on first run, or merge with existing on later runs
+    if (exists("byCrop_output")){
+      if (i==0) {
+        outputDF <- byCrop_output
+      } else {
+        outputDF <- rbind(outputDF, byCrop_output)
+      }
+      i <- i+1
+      rm(byCrop_output)
+    }
+  }
+  return(outputDF)
+}
+
+albertaIntlConverted <- convertIntlAreaToN("Alberta", albertaIntl)
+manitobaIntlConverted <- convertIntlAreaToN("Manitoba", manitobaIntl)
+bcIntlConverted <- convertIntlAreaToN("British Columbia", bcIntl)
+nbIntlConverted <- convertIntlAreaToN("New Brunswick", nbIntl)
+nalIntlConverted <- convertIntlAreaToN("Newfoundland and Labrador", nalIntl)
+nsIntlConverted <- convertIntlAreaToN("Nova Scotia", nsIntl)
+ontarioIntlConverted <- convertIntlAreaToN("Ontario", ontarioIntl)
+peiIntlConverted <- convertIntlAreaToN("Prince Edward Island", peiIntl)
+quebecIntlConverted <- convertIntlAreaToN("Quebec", quebecIntl)
+saskatchewanIntlConverted <- convertIntlAreaToN("Saskatchewan", saskatchewanIntl)
+
 
 
