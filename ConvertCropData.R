@@ -336,7 +336,6 @@ convertIntlMassToArea <- function(province){
   
   #Iterate over the crops of interest
   for (crop in crops){
-    
     #Special case for potatoes and generic corn, otherwise use provincialYields
     if (crop == "Fresh potatoes"){
       yields_byCrop <- provincialPotatoes
@@ -386,7 +385,7 @@ convertIntlMassToArea <- function(province){
     j <- 0
     
     #Iterate over years, cut off the January 1st component
-    years <- str_sub(provincial_byCrop$Period, end=-7)
+    years <- unique(str_sub(provincial_byCrop$Period, end=-7))
     for (year in years){
       #Get the yearly mass value and convert to seeded area, add to vector
       provincial_byYear <- provincial_byCrop[str_sub(provincial_byCrop$Period, end=-7) == year, ]
@@ -516,6 +515,7 @@ convertIntlAreaToN <- function(province, provincialDF){
   return(outputDF)
 }
 
+#Convert area-to-nitrogen for the international data
 albertaIntlConverted <- convertIntlAreaToN("Alberta", albertaIntl)
 manitobaIntlConverted <- convertIntlAreaToN("Manitoba", manitobaIntl)
 bcIntlConverted <- convertIntlAreaToN("British Columbia", bcIntl)
@@ -526,6 +526,20 @@ ontarioIntlConverted <- convertIntlAreaToN("Ontario", ontarioIntl)
 peiIntlConverted <- convertIntlAreaToN("Prince Edward Island", peiIntl)
 quebecIntlConverted <- convertIntlAreaToN("Quebec", quebecIntl)
 saskatchewanIntlConverted <- convertIntlAreaToN("Saskatchewan", saskatchewanIntl)
+
+#Write converted data files
+write.csv(albertaIntlConverted, "./data/Converted/International/alberta_international_v1.csv")
+write.csv(manitobaIntlConverted, "./data/Converted/International/manitoba_international_v1.csv")
+write.csv(bcIntlConverted, "./data/Converted/International/british_columbia_international_v1.csv")
+write.csv(nbIntlConverted, "./data/Converted/International/new_brunswick_international_v1.csv")
+write.csv(nalIntlConverted, "./data/Converted/International/newfoundland_and_labrador_international_v1.csv")
+write.csv(nsIntlConverted, "./data/Converted/International/nova_scotia_international_v1.csv")
+write.csv(ontarioIntlConverted, "./data/Converted/International/ontario_international_v1.csv")
+write.csv(peiIntlConverted, "./data/Converted/International/pei_international_v1.csv")
+write.csv(quebecIntlConverted, "./data/Converted/International/quebec_international_v1.csv")
+write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v1.csv")
+
+
 
 
 
