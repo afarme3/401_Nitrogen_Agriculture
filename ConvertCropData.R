@@ -292,6 +292,151 @@ write.csv(peiConverted_3, "./data/Converted/Interprovincial/pei_interprovincial_
 write.csv(quebecConverted_3, "./data/Converted/Interprovincial/quebec_interprovincial_v1.csv")
 write.csv(saskatchewanConverted_3, "./data/Converted/Interprovincial/saskatchewan_interprovincial_v1.csv")
 
+#
+# Convert international trade data to nitrogen footprint
+#
+#Import international crop data, convert from metric tonnes to kilos as needed. Extract out just the crops of interest
+barley <- read.csv("./data/Raw/international/barley.csv")
+barley$Kilograms <- barley$Quantity*1000
+corn <- read.csv("./data/Raw/international/corn.csv")
+corn$Kilograms <- corn$Quantity*1
+oats <- read.csv("./data/Raw/international/oats.csv")
+oats$Kilograms <- oats$Quantity*1
+oilseeds <- read.csv("./data/Raw/international/oilseeds.csv")
+oilseeds$Kilograms <- oilseeds$Quantity*1
+cereals <- read.csv("./data/Raw/international/other_cereals.csv")
+cereals$Kilograms <- cereals$Quantity*1
+potatoes <- read.csv("./data/Raw/international/potatoes.csv")
+potatoes$Kilograms <- potatoes$Quantity*1000
+rapeseeds <- read.csv("./data/Raw/international/rapeseeds.csv")
+rapeseeds$Kilograms <- rapeseeds$Quantity*1
+wheat <- read.csv("./data/Raw/international/wheat.csv")
+wheat$Kilograms <- wheat$Quantity*1000
 
+#Merge data frames
+international <- rbind(barley, corn, oats, oilseeds, cereals, potatoes, rapeseeds, wheat)
+
+#Import conversion factors
+yields <- read.csv("./data/Conversions/kg-ha/Full_Yield_v2.csv")
+potatoes <- read.csv("./data/Conversions/kg-ha/potatoes_v2.csv")
+
+convertIntlMassToArea <- function(province){
+  #Get the provincial dataframe as sliced from the full international
+  provincialDF <- international[international$Province == province,]
+  
+  #Get the conversion factors for the province of interest
+  provincialYields <- yields[yields$GEO == province,]
+  provincialPotatoes <- potatoes[potatoes$GEO == province,]
+  
+  #Extract the crops of interest from the yields conversion table
+  crops <- c(levels(yields$Type.of.crop), "Fresh potatoes")
+  
+  #Create an index variable
+  i <- 0
+  
+  #Iterate over the crops of interest
+  for (crop in crops){
+    
+    #Special case for potatoes and generic corn, otherwise use provincialYields
+    if (crop == "Fresh potatoes"){
+      yields_byCrop <- provincialPotatoes
+    } else{
+      yields_byCrop <- provincialYields[provincialYields$Type.of.crop == crop,]
+    }
+    
+    #Setup names vector for grep based on type of crop
+    if (crop == "Barley"){
+      names <- c("Barley, o/t certified organic, o/t seed for sowing", "Barley, except seed", "Barley (Terminated 1998-12)")
+    } else if (crop == "Canola (including rapeseed)"){
+      names <- c("Rape")
+    } else if (crop == "Corn for grain"){
+      names <- c("Corn")
+    } else if (crop == "Flaxseed"){
+      names <- c("Oil seeds") 
+    } else if (crop == "Oats"){
+      names <- c("Oats, other than seed for sowing", "Oat, o/t certified organic, o/t seed for sowing", "Oats, except seed")
+    } else if (crop == "Rye"){
+      names <- c("Wheat and meslin, other than durum wheat, other than seed for sowing", "Wheat, nes and meslin, o/t certified organic, o/t seed for sowing", "Wheat, nes and meslin, other than seed for sowing", "Meslin")
+    } else if (crop == "Wheat"){
+      names <- c("winter wheat, except seed", "wheat, exc seed", "Wheat, nes and meslin, o/t certified organic", "Wheat, nes (Terminated 2011-12)", "Wheat nes, except seed")
+    } else if (crop == "Wheat, durum"){
+      names <- c("Wheat, durum", "Durum wheat, o/t certified organic", "Durum wheat (Terminated 2014-12)", "Durum wheat, other than seed for sowing", "Durum wheat, except seed")
+    } else if (crop == "Wheat, spring"){
+      names <- c("spring wheat, o/t", "spring wheat, exc", "spring wheat, nes, other than seed for sowing", "spring wheat, grade 2, other than seed for sowing", "spring wheat, other")
+    } else if (crop == "Wheat, winter remaining"){
+      names <- c("winter wheat, other", "winter wheat, o/t", "winter wheat, exc")
+    } else if (crop == "Fresh potatoes"){
+      names <- c("Potatoes, fresh")
+    } else {
+      names <- c("NA")
+    }
+    
+    #Get data frames with just the crops of interest by using grepL to 
+    provincial_byCrop <- provincialDF[grepl(paste(names, collapse="|"), provincialDF$Commodity),]
+    
+    #Create an average yield conversion factor in case there are missing values
+    averageYield <- 0
+    averageYield <- mean(yields_byCrop$VALUE)
+    #Special case for potatoes
+    if (crop == "Fresh potatoes"){
+      averageYield <- mean(yields_byCrop$KG_HA)
+    }
+    
+    #Initialize another counting variable
+    j <- 0
+    
+    #Iterate over years, cut off the January 1st component
+    years <- str_sub(provincial_byCrop$Period, end=-7)
+    for (year in years){
+      #Get the yearly mass value and convert to seeded area, add to vector
+      provincial_byYear <- provincial_byCrop[str_sub(provincial_byCrop$Period, end=-7) == year, ]
+      areaValues <- provincial_byYear$Kilograms / yields_byCrop$VALUE[yields_byCrop$Year == year]
+      
+      #Special case for potatoes
+      if (crop == "Fresh potatoes"){
+        areaValues <- provincial_byYear$Kilograms / yields_byCrop$KG_HA[yields_byCrop$REF_DATE == year]
+      }
+      
+      #Catch missing conversion values by using the conversion by utilizing the overall average
+      if (any(is.na(areaValues)) || length(areaValues)==0){
+        areaValues <- provincial_byYear$Kilograms / averageYield
+      }
+      
+      #Add area values to the dataframe
+      provincial_byYear$Seeded.Area <- areaValues
+      
+      #Create a new data frame on first run, or merge with existing on later runs
+      if (j==0) {
+        byCrop_output <- provincial_byYear
+      } else {
+        byCrop_output <- rbind(byCrop_output, provincial_byYear)
+      }
+      j <- j+1
+    }
+    
+    #Create a new data frame on first run, or merge with existing on later runs
+    if (exists("byCrop_output")){
+      if (i==0) {
+        outputDF <- byCrop_output
+      } else {
+        outputDF <- rbind(outputDF, byCrop_output)
+      }
+      i <- i+1
+    }
+  }
+  
+  return(outputDF)
+}
+
+albertaIntl <- convertIntlMassToArea("Alberta")
+manitobaIntl <- convertIntlMassToArea("Manitoba")
+bcIntl <- convertIntlMassToArea("British Columbia")
+nbIntl <- convertIntlMassToArea("New Brunswick")
+nalIntl <- convertIntlMassToArea("Newfoundland and Labrador")
+nsIntl <- convertIntlMassToArea("Nova Scotia")
+ontarioIntl <- convertIntlMassToArea("Ontario")
+peiIntl <- convertIntlMassToArea("Prince Edward Island")
+quebecIntl <- convertIntlMassToArea("Quebec")
+saskatchewanIntl <- convertIntlMassToArea("Saskatchewan")
 
 
