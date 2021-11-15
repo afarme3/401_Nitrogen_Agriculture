@@ -1,0 +1,59 @@
+"","REF_DATE","GEO","DGUID","Harvest.disposition","Type.of.crop","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Nitrogen.Applied"
+"631",2018,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v1000143052","13.16.6",0,"",NA,NA,0,0
+"632",2019,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v1000143052","13.16.6",NA,"F",NA,NA,0,NA
+"633",2020,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v1000143052","13.16.6",0,"",NA,NA,0,0
+"634",2021,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v1000143052","13.16.6",0,"",NA,NA,0,0
+"643",1980,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",NA,"..",NA,NA,0,NA
+"644",1981,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",NA,"..",NA,NA,0,NA
+"645",1982,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",NA,"..",NA,NA,0,NA
+"646",1983,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",3200,"",NA,NA,0,140000
+"647",1984,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",3400,"",NA,NA,0,148750
+"648",1985,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",3400,"",NA,NA,0,148750
+"649",1986,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",3700,"",NA,NA,0,161875
+"650",1987,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",3800,"",NA,NA,0,166250
+"651",1988,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",4500,"",NA,NA,0,196875
+"652",1989,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",4700,"",NA,NA,0,205625
+"653",1990,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"654",1991,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",4905,"",NA,NA,0,214593.75
+"655",1992,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5000,"",NA,NA,0,218750
+"656",1993,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"657",1994,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"658",1995,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"659",1996,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"660",1997,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5100,"",NA,NA,0,223125
+"661",1998,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5500,"",NA,NA,0,240625
+"662",1999,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5900,"",NA,NA,0,258125
+"663",2000,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6200,"",NA,NA,0,271250
+"664",2001,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6600,"",NA,NA,0,288750
+"665",2002,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6500,"",NA,NA,0,284375
+"666",2003,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6100,"",NA,NA,0,266875
+"667",2004,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6100,"",NA,NA,0,266875
+"668",2005,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6100,"",NA,NA,0,266875
+"669",2006,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6400,"",NA,NA,0,280000
+"670",2007,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6300,"",NA,NA,0,275625
+"671",2008,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6500,"",NA,NA,0,284375
+"672",2009,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6700,"",NA,NA,0,293125
+"673",2010,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6500,"",NA,NA,0,284375
+"674",2011,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6400,"",NA,NA,0,280000
+"675",2012,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6300,"",NA,NA,0,275625
+"676",2013,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6100,"",NA,NA,0,266875
+"677",2014,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6000,"",NA,NA,0,262500
+"678",2015,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6000,"",NA,NA,0,262500
+"679",2016,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",6300,"",NA,NA,0,275625
+"680",2017,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5800,"",NA,NA,0,253750
+"681",2018,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5700,"",NA,NA,0,249375
+"682",2019,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",5700,"",NA,NA,0,249375
+"683",2020,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",4600,"",NA,NA,0,201250
+"684",2021,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v114995817","13.16.28",4700,"",NA,NA,0,205625
+"685",2018,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v1000142856","13.16.23",40,"",NA,NA,0,3700
+"686",2019,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v1000142856","13.16.23",81,"",NA,NA,0,7492.5
+"687",2020,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v1000142856","13.16.23",NA,"F",NA,NA,0,NA
+"688",2021,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v1000142856","13.16.23",0,"",NA,NA,0,0
+"635",2018,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Mixed grains","Hectares",149,"units",0,"v1000143078","13.16.10",100,"",NA,NA,0,6000
+"636",2019,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Mixed grains","Hectares",149,"units",0,"v1000143078","13.16.10",0,"",NA,NA,0,0
+"637",2020,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Mixed grains","Hectares",149,"units",0,"v1000143078","13.16.10",0,"",NA,NA,0,0
+"638",2021,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Mixed grains","Hectares",149,"units",0,"v1000143078","13.16.10",0,"",NA,NA,0,0
+"639",2018,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v1000143054","13.16.15",0,"",NA,NA,0,0
+"640",2019,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v1000143054","13.16.15",0,"",NA,NA,0,0
+"641",2020,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v1000143054","13.16.15",0,"",NA,NA,0,0
+"642",2021,"Newfoundland and Labrador","2016A000210","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v1000143054","13.16.15",0,"",NA,NA,0,0

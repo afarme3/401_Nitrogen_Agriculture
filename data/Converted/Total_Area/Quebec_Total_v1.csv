@@ -1,0 +1,211 @@
+"","REF_DATE","GEO","DGUID","Harvest.disposition","Type.of.crop","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Nitrogen.Applied"
+"1235",1980,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",65600,"",NA,NA,0,5248000
+"1236",1981,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",106000,"",NA,NA,0,8480000
+"1237",1982,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",121000,"",NA,NA,0,9680000
+"1238",1983,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",132000,"",NA,NA,0,10560000
+"1239",1984,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",135000,"",NA,NA,0,10800000
+"1240",1985,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",142000,"",NA,NA,0,11360000
+"1241",1986,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",175400,"",NA,NA,0,14032000
+"1242",1987,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",180000,"",NA,NA,0,14400000
+"1243",1988,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",166000,"",NA,NA,0,13280000
+"1244",1989,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",150000,"",NA,NA,0,1.2e+07
+"1245",1990,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",148000,"",NA,NA,0,11840000
+"1246",1991,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",157387,"",NA,NA,0,12590960
+"1247",1992,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",164000,"",NA,NA,0,13120000
+"1248",1993,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",155000,"",NA,NA,0,12400000
+"1249",1994,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",145000,"",NA,NA,0,11600000
+"1250",1995,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",130000,"",NA,NA,0,10400000
+"1251",1996,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",125225,"",NA,NA,0,10018000
+"1252",1997,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",126000,"",NA,NA,0,10080000
+"1253",1998,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",130000,"",NA,NA,0,10400000
+"1254",1999,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",128000,"",NA,NA,0,10240000
+"1255",2000,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",133000,"",NA,NA,0,10640000
+"1256",2001,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",159500,"",NA,NA,0,12760000
+"1257",2002,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",165000,"",NA,NA,0,13200000
+"1258",2003,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",140000,"",NA,NA,0,11200000
+"1259",2004,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",115000,"",NA,NA,0,9200000
+"1260",2005,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",112000,"",NA,NA,0,8960000
+"1261",2006,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",105800,"",NA,NA,0,8464000
+"1262",2007,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",95000,"",NA,NA,0,7600000
+"1263",2008,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",100000,"",NA,NA,0,8e+06
+"1264",2009,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",96000,"",NA,NA,0,7680000
+"1265",2010,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",91000,"",NA,NA,0,7280000
+"1266",2011,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",73400,"",NA,NA,0,5872000
+"1267",2012,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",73000,"",NA,NA,0,5840000
+"1268",2013,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",71500,"",NA,NA,0,5720000
+"1269",2014,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",55700,"",NA,NA,0,4456000
+"1270",2015,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",51000,"",NA,NA,0,4080000
+"1271",2016,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",52000,"",NA,NA,0,4160000
+"1272",2017,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",53000,"",NA,NA,0,4240000
+"1273",2018,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",54600,"",NA,NA,0,4368000
+"1274",2019,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",49500,"",NA,NA,0,3960000
+"1275",2020,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",51000,"",NA,NA,0,4080000
+"1276",2021,"Quebec","2016A000224","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114062","6.16.6",44700,"",NA,NA,0,3576000
+"1403",1980,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",993400,"",NA,NA,0,38494250
+"1404",1981,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",965500,"",NA,NA,0,37413125
+"1405",1982,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",967000,"",NA,NA,0,37471250
+"1406",1983,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",969200,"",NA,NA,0,37556500
+"1407",1984,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",971000,"",NA,NA,0,37626250
+"1408",1985,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",971000,"",NA,NA,0,37626250
+"1409",1986,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",974700,"",NA,NA,0,37769625
+"1410",1987,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",951000,"",NA,NA,0,36851250
+"1411",1988,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",919000,"",NA,NA,0,35611250
+"1412",1989,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",910000,"",NA,NA,0,35262500
+"1413",1990,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",890000,"",NA,NA,0,34487500
+"1414",1991,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",869744,"",NA,NA,0,33702580
+"1415",1992,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",880000,"",NA,NA,0,34100000
+"1416",1993,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",930000,"",NA,NA,0,36037500
+"1417",1994,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",920000,"",NA,NA,0,35650000
+"1418",1995,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",890000,"",NA,NA,0,34487500
+"1419",1996,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",882646,"",NA,NA,0,34202532.5
+"1420",1997,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",855000,"",NA,NA,0,33131250
+"1421",1998,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",840000,"",NA,NA,0,32550000
+"1422",1999,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",820000,"",NA,NA,0,31775000
+"1423",2000,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",810000,"",NA,NA,0,31387500
+"1424",2001,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",781000,"",NA,NA,0,30263750
+"1425",2002,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",790000,"",NA,NA,0,30612500
+"1426",2003,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",805000,"",NA,NA,0,31193750
+"1427",2004,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",815000,"",NA,NA,0,31581250
+"1428",2005,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",835000,"",NA,NA,0,32356250
+"1429",2006,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",857000,"",NA,NA,0,33208750
+"1430",2007,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",842000,"",NA,NA,0,32627500
+"1431",2008,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",817000,"",NA,NA,0,31658750
+"1432",2009,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",800000,"",NA,NA,0,3.1e+07
+"1433",2010,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",787000,"",NA,NA,0,30496250
+"1434",2011,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",767800,"",NA,NA,0,29752250
+"1435",2012,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",748700,"",NA,NA,0,29012125
+"1436",2013,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",724400,"",NA,NA,0,28070500
+"1437",2014,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",704200,"",NA,NA,0,27287750
+"1438",2015,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",683900,"",NA,NA,0,26501125
+"1439",2016,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",658500,"",NA,NA,0,25516875
+"1440",2017,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",630500,"",NA,NA,0,24431875
+"1441",2018,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",641400,"",NA,NA,0,24854250
+"1442",2019,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",651140,"",NA,NA,0,25231675
+"1443",2020,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",609100,"",NA,NA,0,23602625
+"1444",2021,"Quebec","2016A000224","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114078","6.16.28",646800,"",NA,NA,0,25063500
+"1277",1980,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",154000,"",NA,NA,0,26180000
+"1278",1981,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",165400,"",NA,NA,0,28118000
+"1279",1982,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",179600,"",NA,NA,0,30532000
+"1280",1983,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",182000,"",NA,NA,0,30940000
+"1281",1984,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",210000,"",NA,NA,0,35700000
+"1282",1985,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",225000,"",NA,NA,0,38250000
+"1283",1986,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",234400,"",NA,NA,0,39848000
+"1284",1987,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",237000,"",NA,NA,0,40290000
+"1285",1988,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",251000,"",NA,NA,0,42670000
+"1286",1989,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",269000,"",NA,NA,0,45730000
+"1287",1990,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",283000,"",NA,NA,0,48110000
+"1288",1991,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",293758,"",NA,NA,0,49938860
+"1289",1992,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",308000,"",NA,NA,0,52360000
+"1290",1993,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",291000,"",NA,NA,0,49470000
+"1291",1994,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",285000,"",NA,NA,0,48450000
+"1292",1995,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",284000,"",NA,NA,0,48280000
+"1293",1996,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",331775,"",NA,NA,0,56401750
+"1294",1997,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",330000,"",NA,NA,0,56100000
+"1295",1998,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",335000,"",NA,NA,0,56950000
+"1296",1999,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",375000,"",NA,NA,0,63750000
+"1297",2000,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",411000,"",NA,NA,0,69870000
+"1298",2001,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",435500,"",NA,NA,0,74035000
+"1299",2002,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",450000,"",NA,NA,0,76500000
+"1300",2003,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",440000,"",NA,NA,0,74800000
+"1301",2004,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",420000,"",NA,NA,0,71400000
+"1302",2005,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",412000,"",NA,NA,0,70040000
+"1303",2006,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",387000,"",NA,NA,0,65790000
+"1304",2007,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",450000,"",NA,NA,0,76500000
+"1305",2008,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",395000,"",NA,NA,0,67150000
+"1306",2009,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",382000,"",NA,NA,0,64940000
+"1307",2010,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",370000,"",NA,NA,0,62900000
+"1308",2011,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",379600,"",NA,NA,0,64532000
+"1309",2012,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",395200,"",NA,NA,0,67184000
+"1310",2013,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",420900,"",NA,NA,0,71553000
+"1311",2014,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",368300,"",NA,NA,0,62611000
+"1312",2015,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",372300,"",NA,NA,0,63291000
+"1313",2016,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",396800,"",NA,NA,0,67456000
+"1314",2017,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",380000,"",NA,NA,0,64600000
+"1315",2018,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",385700,"",NA,NA,0,65569000
+"1316",2019,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",382500,"",NA,NA,0,65025000
+"1317",2020,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",360500,"",NA,NA,0,61285000
+"1318",2021,"Quebec","2016A000224","Seeded area (hectares)","Corn for grain","Hectares",149,"units",0,"v115114068","6.16.11",358500,"",NA,NA,0,60945000
+"1319",1980,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",164900,"",NA,NA,0,17314500
+"1320",1981,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",150100,"",NA,NA,0,15760500
+"1321",1982,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",163000,"",NA,NA,0,17115000
+"1322",1983,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",170000,"",NA,NA,0,17850000
+"1323",1984,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",165000,"",NA,NA,0,17325000
+"1324",1985,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",150000,"",NA,NA,0,15750000
+"1325",1986,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",117600,"",NA,NA,0,12348000
+"1326",1987,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",113000,"",NA,NA,0,11865000
+"1327",1988,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",122000,"",NA,NA,0,12810000
+"1328",1989,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",117000,"",NA,NA,0,12285000
+"1329",1990,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",97000,"",NA,NA,0,10185000
+"1330",1991,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",96348,"",NA,NA,0,10116540
+"1331",1992,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",109000,"",NA,NA,0,11445000
+"1332",1993,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",104000,"",NA,NA,0,10920000
+"1333",1994,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",96000,"",NA,NA,0,10080000
+"1334",1995,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",89000,"",NA,NA,0,9345000
+"1335",1996,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",85106,"",NA,NA,0,8936130
+"1336",1997,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",85000,"",NA,NA,0,8925000
+"1337",1998,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",85000,"",NA,NA,0,8925000
+"1338",1999,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",82000,"",NA,NA,0,8610000
+"1339",2000,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",88000,"",NA,NA,0,9240000
+"1340",2001,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",93000,"",NA,NA,0,9765000
+"1341",2002,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",110000,"",NA,NA,0,11550000
+"1342",2003,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",116000,"",NA,NA,0,12180000
+"1343",2004,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",110000,"",NA,NA,0,11550000
+"1344",2005,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",120000,"",NA,NA,0,12600000
+"1345",2006,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",125700,"",NA,NA,0,13198500
+"1346",2007,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",115000,"",NA,NA,0,12075000
+"1347",2008,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",102000,"",NA,NA,0,10710000
+"1348",2009,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",105000,"",NA,NA,0,11025000
+"1349",2010,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",113000,"",NA,NA,0,11865000
+"1350",2011,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",103600,"",NA,NA,0,10878000
+"1351",2012,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",95800,"",NA,NA,0,10059000
+"1352",2013,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",84300,"",NA,NA,0,8851500
+"1353",2014,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",86600,"",NA,NA,0,9093000
+"1354",2015,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",100000,"",NA,NA,0,10500000
+"1355",2016,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",84500,"",NA,NA,0,8872500
+"1356",2017,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",60000,"",NA,NA,0,6300000
+"1357",2018,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",74100,"",NA,NA,0,7780500
+"1358",2019,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",73500,"",NA,NA,0,7717500
+"1359",2020,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",82600,"",NA,NA,0,8673000
+"1360",2021,"Quebec","2016A000224","Seeded area (hectares)","Oats","Hectares",149,"units",0,"v115114071","6.16.5",67000,"",NA,NA,0,7035000
+"1361",1980,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1362",1981,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1363",1982,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1364",1983,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1365",1984,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1366",1985,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",NA,"..",NA,NA,0,NA
+"1367",1986,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",4400,"",NA,NA,0,0
+"1368",1987,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",8000,"",NA,NA,0,0
+"1369",1988,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",15000,"",NA,NA,0,0
+"1370",1989,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",17500,"",NA,NA,0,0
+"1371",1990,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",18200,"",NA,NA,0,0
+"1372",1991,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",25271,"",NA,NA,0,0
+"1373",1992,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",32000,"",NA,NA,0,0
+"1374",1993,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",36000,"",NA,NA,0,0
+"1375",1994,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",57000,"",NA,NA,0,0
+"1376",1995,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",86000,"",NA,NA,0,0
+"1377",1996,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",96693,"",NA,NA,0,0
+"1378",1997,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",120000,"",NA,NA,0,0
+"1379",1998,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",128000,"",NA,NA,0,0
+"1380",1999,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",142000,"",NA,NA,0,0
+"1381",2000,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",156000,"",NA,NA,0,0
+"1382",2001,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",148000,"",NA,NA,0,0
+"1383",2002,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",135000,"",NA,NA,0,0
+"1384",2003,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",152000,"",NA,NA,0,0
+"1385",2004,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",200000,"",NA,NA,0,0
+"1386",2005,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",187000,"",NA,NA,0,0
+"1387",2006,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",194500,"",NA,NA,0,0
+"1388",2007,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",176000,"",NA,NA,0,0
+"1389",2008,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",232000,"",NA,NA,0,0
+"1390",2009,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",242000,"",NA,NA,0,0
+"1391",2010,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",267000,"",NA,NA,0,0
+"1392",2011,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",300000,"",NA,NA,0,0
+"1393",2012,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",285700,"",NA,NA,0,0
+"1394",2013,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",295500,"",NA,NA,0,0
+"1395",2014,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",358100,"",NA,NA,0,0
+"1396",2015,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",344000,"",NA,NA,0,0
+"1397",2016,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",351700,"",NA,NA,0,0
+"1398",2017,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",398000,"",NA,NA,0,0
+"1399",2018,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",370300,"",NA,NA,0,0
+"1400",2019,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",366700,"",NA,NA,0,0
+"1401",2020,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",358300,"",NA,NA,0,0
+"1402",2021,"Quebec","2016A000224","Seeded area (hectares)","Soybeans","Hectares",149,"units",0,"v115114075","6.16.15",374500,"",NA,NA,0,0

@@ -1,0 +1,169 @@
+"","REF_DATE","GEO","DGUID","Harvest.disposition","Type.of.crop","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Nitrogen.Applied"
+"253",1980,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",850000,"",NA,NA,0,63750000
+"254",1981,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",951000,"",NA,NA,0,71325000
+"255",1982,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",830000,"",NA,NA,0,62250000
+"256",1983,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",728000,"",NA,NA,0,54600000
+"257",1984,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",749000,"",NA,NA,0,56175000
+"258",1985,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",769000,"",NA,NA,0,57675000
+"259",1986,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",643500,"",NA,NA,0,48262500
+"260",1987,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",708200,"",NA,NA,0,53115000
+"261",1988,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",627300,"",NA,NA,0,47047500
+"262",1989,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",679900,"",NA,NA,0,50992500
+"263",1990,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",635400,"",NA,NA,0,47655000
+"264",1991,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",544457,"",NA,NA,0,40834275
+"265",1992,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",455300,"",NA,NA,0,34147500
+"266",1993,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",465400,"",NA,NA,0,34905000
+"267",1994,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",445200,"",NA,NA,0,33390000
+"268",1995,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",485600,"",NA,NA,0,36420000
+"269",1996,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",627300,"",NA,NA,0,47047500
+"270",1997,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",566600,"",NA,NA,0,42495000
+"271",1998,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",526100,"",NA,NA,0,39457500
+"272",1999,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",429000,"",NA,NA,0,32175000
+"273",2000,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",505900,"",NA,NA,0,37942500
+"274",2001,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",473500,"",NA,NA,0,35512500
+"275",2002,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",445200,"",NA,NA,0,33390000
+"276",2003,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",429000,"",NA,NA,0,32175000
+"277",2004,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",404700,"",NA,NA,0,30352500
+"278",2005,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",323700,"",NA,NA,0,24277500
+"279",2006,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",339000,"",NA,NA,0,25425000
+"280",2007,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",412800,"",NA,NA,0,30960000
+"281",2008,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",323700,"",NA,NA,0,24277500
+"282",2009,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",273200,"",NA,NA,0,20490000
+"283",2010,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",194200,"",NA,NA,0,14565000
+"284",2011,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",137600,"",NA,NA,0,10320000
+"285",2012,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",224600,"",NA,NA,0,16845000
+"286",2013,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",206400,"",NA,NA,0,15480000
+"287",2014,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",129500,"",NA,NA,0,9712500
+"288",2015,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",182100,"",NA,NA,0,13657500
+"289",2016,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",168300,"",NA,NA,0,12622500
+"290",2017,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",107200,"",NA,NA,0,8040000
+"291",2018,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",131100,"",NA,NA,0,9832500
+"292",2019,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",136100,"",NA,NA,0,10207500
+"293",2020,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",168100,"",NA,NA,0,12607500
+"294",2021,"Manitoba","2016A000246","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114643","9.16.6",166900,"",NA,NA,0,12517500
+"295",1980,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",323700,"",NA,NA,0,29133000
+"296",1981,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",242800,"",NA,NA,0,21852000
+"297",1982,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",344000,"",NA,NA,0,30960000
+"298",1983,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",384000,"",NA,NA,0,34560000
+"299",1984,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",486000,"",NA,NA,0,43740000
+"300",1985,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",405000,"",NA,NA,0,36450000
+"301",1986,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",396600,"",NA,NA,0,35694000
+"302",1987,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",392500,"",NA,NA,0,35325000
+"303",1988,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",647500,"",NA,NA,0,58275000
+"304",1989,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",445200,"",NA,NA,0,40068000
+"305",1990,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",352100,"",NA,NA,0,31689000
+"306",1991,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",507776,"",NA,NA,0,45699840
+"307",1992,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",647500,"",NA,NA,0,58275000
+"308",1993,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",752700,"",NA,NA,0,67743000
+"309",1994,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1031900,"",NA,NA,0,92871000
+"310",1995,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",951000,"",NA,NA,0,85590000
+"311",1996,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",635400,"",NA,NA,0,57186000
+"312",1997,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",959100,"",NA,NA,0,86319000
+"313",1998,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1112900,"",NA,NA,0,100161000
+"314",1999,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1003600,"",NA,NA,0,90324000
+"315",2000,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",951000,"",NA,NA,0,85590000
+"316",2001,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",768900,"",NA,NA,0,69201000
+"317",2002,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",890300,"",NA,NA,0,80127000
+"318",2003,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1011700,"",NA,NA,0,91053000
+"319",2004,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1116900,"",NA,NA,0,100521000
+"320",2005,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1011700,"",NA,NA,0,91053000
+"321",2006,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1003600,"",NA,NA,0,90324000
+"322",2007,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1238300,"",NA,NA,0,111447000
+"323",2008,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1254500,"",NA,NA,0,112905000
+"324",2009,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1305100,"",NA,NA,0,117459000
+"325",2010,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1345600,"",NA,NA,0,121104000
+"326",2011,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1133100,"",NA,NA,0,101979000
+"327",2012,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1469000,"",NA,NA,0,132210000
+"328",2013,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1315200,"",NA,NA,0,118368000
+"329",2014,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1284900,"",NA,NA,0,115641000
+"330",2015,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1301100,"",NA,NA,0,117099000
+"331",2016,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1294800,"",NA,NA,0,116532000
+"332",2017,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1278800,"",NA,NA,0,115092000
+"333",2018,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1382400,"",NA,NA,0,124416000
+"334",2019,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1338600,"",NA,NA,0,120474000
+"335",2020,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1381600,"",NA,NA,0,124344000
+"336",2021,"Manitoba","2016A000246","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114649","9.16.16",1395200,"",NA,NA,0,125568000
+"337",1980,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",530000,"",NA,NA,0,22525000
+"338",1981,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",510000,"",NA,NA,0,21675000
+"339",1982,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",510000,"",NA,NA,0,21675000
+"340",1983,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",526000,"",NA,NA,0,22355000
+"341",1984,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",526000,"",NA,NA,0,22355000
+"342",1985,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",546000,"",NA,NA,0,23205000
+"343",1986,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",580700,"",NA,NA,0,24679750
+"344",1987,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",627300,"",NA,NA,0,26660250
+"345",1988,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",647500,"",NA,NA,0,27518750
+"346",1989,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",667700,"",NA,NA,0,28377250
+"347",1990,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",716300,"",NA,NA,0,30442750
+"348",1991,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",737599,"",NA,NA,0,31347957.5
+"349",1992,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",789100,"",NA,NA,0,33536750
+"350",1993,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",768900,"",NA,NA,0,32678250
+"351",1994,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",789100,"",NA,NA,0,33536750
+"352",1995,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",801300,"",NA,NA,0,34055250
+"353",1996,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",774300,"",NA,NA,0,32907750
+"354",1997,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",768900,"",NA,NA,0,32678250
+"355",1998,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",829600,"",NA,NA,0,35258000
+"356",1999,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",864000,"",NA,NA,0,36720000
+"357",2000,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",878200,"",NA,NA,0,37323500
+"358",2001,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",930800,"",NA,NA,0,39559000
+"359",2002,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",940900,"",NA,NA,0,39988250
+"360",2003,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",961100,"",NA,NA,0,40846750
+"361",2004,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",971200,"",NA,NA,0,41276000
+"362",2005,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",991500,"",NA,NA,0,42138750
+"363",2006,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",998800,"",NA,NA,0,42449000
+"364",2007,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",953000,"",NA,NA,0,40502500
+"365",2008,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",906500,"",NA,NA,0,38526250
+"366",2009,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",874100,"",NA,NA,0,37149250
+"367",2010,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",825600,"",NA,NA,0,35088000
+"368",2011,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",767100,"",NA,NA,0,32601750
+"369",2012,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",740600,"",NA,NA,0,31475500
+"370",2013,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",712200,"",NA,NA,0,30268500
+"371",2014,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",692000,"",NA,NA,0,29410000
+"372",2015,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",667700,"",NA,NA,0,28377250
+"373",2016,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",650900,"",NA,NA,0,27663250
+"374",2017,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",655600,"",NA,NA,0,27863000
+"375",2018,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",634100,"",NA,NA,0,26949250
+"376",2019,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",605290,"",NA,NA,0,25724825
+"377",2020,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",589100,"",NA,NA,0,25036750
+"378",2021,"Manitoba","2016A000246","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114669","9.16.28",571200,"",NA,NA,0,24276000
+"379",1980,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"380",1981,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"381",1982,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"382",1983,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"383",1984,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"384",1985,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"385",1986,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"386",1987,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"387",1988,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"388",1989,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"389",1990,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",NA,"..",NA,NA,0,NA
+"390",1991,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",2073884,"",NA,NA,0,165910720
+"391",1992,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",2108300,"",NA,NA,0,168664000
+"392",1993,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",2030700,"",NA,NA,0,162456000
+"393",1994,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1560000,"",NA,NA,0,124800000
+"394",1995,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1566000,"",NA,NA,0,125280000
+"395",1996,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1649000,"",NA,NA,0,131920000
+"396",1997,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1517500,"",NA,NA,0,121400000
+"397",1998,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1232300,"",NA,NA,0,98584000
+"398",1999,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1272600,"",NA,NA,0,101808000
+"399",2000,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1535700,"",NA,NA,0,122856000
+"400",2001,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1578200,"",NA,NA,0,126256000
+"401",2002,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1355600,"",NA,NA,0,108448000
+"402",2003,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1347600,"",NA,NA,0,107808000
+"403",2004,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1272600,"",NA,NA,0,101808000
+"404",2005,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1143200,"",NA,NA,0,91456000
+"405",2006,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1331500,"",NA,NA,0,106520000
+"406",2007,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1195800,"",NA,NA,0,95664000
+"407",2008,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1331500,"",NA,NA,0,106520000
+"408",2009,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1333400,"",NA,NA,0,106672000
+"409",2010,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1230200,"",NA,NA,0,98416000
+"410",2011,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",897200,"",NA,NA,0,71776000
+"411",2012,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1222000,"",NA,NA,0,97760000
+"412",2013,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1428400,"",NA,NA,0,114272000
+"413",2014,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1246400,"",NA,NA,0,99712000
+"414",2015,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1282800,"",NA,NA,0,102624000
+"415",2016,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1210500,"",NA,NA,0,96840000
+"416",2017,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1119100,"",NA,NA,0,89528000
+"417",2018,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1182500,"",NA,NA,0,94600000
+"418",2019,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1272900,"",NA,NA,0,101832000
+"419",2020,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1270100,"",NA,NA,0,101608000
+"420",2021,"Manitoba","2016A000246","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114682","9.16.23",1166600,"",NA,NA,0,93328000

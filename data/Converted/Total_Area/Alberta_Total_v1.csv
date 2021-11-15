@@ -1,0 +1,169 @@
+"","REF_DATE","GEO","DGUID","Harvest.disposition","Type.of.crop","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS","Nitrogen.Applied"
+"1",1980,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2286000,"",NA,NA,0,125730000
+"2",1981,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2651000,"",NA,NA,0,145805000
+"3",1982,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2610000,"",NA,NA,0,143550000
+"4",1983,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2226000,"",NA,NA,0,122430000
+"5",1984,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2327000,"",NA,NA,0,127985000
+"6",1985,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2489000,"",NA,NA,0,136895000
+"7",1986,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2387600,"",NA,NA,0,131318000
+"8",1987,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2387600,"",NA,NA,0,131318000
+"9",1988,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2023400,"",NA,NA,0,111287000
+"10",1989,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2205500,"",NA,NA,0,121302500
+"11",1990,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2205500,"",NA,NA,0,121302500
+"12",1991,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2187052,"",NA,NA,0,120287860
+"13",1992,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1942500,"",NA,NA,0,106837500
+"14",1993,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2063900,"",NA,NA,0,113514500
+"15",1994,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1983000,"",NA,NA,0,109065000
+"16",1995,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2084100,"",NA,NA,0,114625500
+"17",1996,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2347200,"",NA,NA,0,129096000
+"18",1997,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2266200,"",NA,NA,0,124641000
+"19",1998,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2104400,"",NA,NA,0,115742000
+"20",1999,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1922300,"",NA,NA,0,105726500
+"21",2000,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2185300,"",NA,NA,0,120191500
+"22",2001,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1983000,"",NA,NA,0,109065000
+"23",2002,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2169100,"",NA,NA,0,119300500
+"24",2003,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",2144800,"",NA,NA,0,117964000
+"25",2004,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1910100,"",NA,NA,0,105055500
+"26",2005,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1709800,"",NA,NA,0,94039000
+"27",2006,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1657100,"",NA,NA,0,91140500
+"28",2007,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1962700,"",NA,NA,0,107948500
+"29",2008,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1679400,"",NA,NA,0,92367000
+"30",2009,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1602600,"",NA,NA,0,88143000
+"31",2010,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1509500,"",NA,NA,0,83022500
+"32",2011,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1461000,"",NA,NA,0,80355000
+"33",2012,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1537800,"",NA,NA,0,84579000
+"34",2013,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1497300,"",NA,NA,0,82351500
+"35",2014,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1315200,"",NA,NA,0,72336000
+"36",2015,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1416400,"",NA,NA,0,77902000
+"37",2016,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1381600,"",NA,NA,0,75988000
+"38",2017,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1153400,"",NA,NA,0,63437000
+"39",2018,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1260200,"",NA,NA,0,69311000
+"40",2019,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1441900,"",NA,NA,0,79304500
+"41",2020,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1481800,"",NA,NA,0,81499000
+"42",2021,"Alberta","2016A000248","Seeded area (hectares)","Barley","Hectares",149,"units",0,"v115114456","11.16.6",1564900,"",NA,NA,0,86069500
+"43",1980,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",890300,"",NA,NA,0,75675500
+"44",1981,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",586800,"",NA,NA,0,49878000
+"45",1982,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",768900,"",NA,NA,0,65356500
+"46",1983,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1012000,"",NA,NA,0,86020000
+"47",1984,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1214000,"",NA,NA,0,103190000
+"48",1985,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1133000,"",NA,NA,0,96305000
+"49",1986,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1133100,"",NA,NA,0,96313500
+"50",1987,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1173600,"",NA,NA,0,99756000
+"51",1988,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1456900,"",NA,NA,0,123836500
+"52",1989,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1092700,"",NA,NA,0,92879500
+"53",1990,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",991500,"",NA,NA,0,84277500
+"54",1991,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1206825,"",NA,NA,0,102580125
+"55",1992,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1153400,"",NA,NA,0,98039000
+"56",1993,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1477100,"",NA,NA,0,125553500
+"57",1994,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2023400,"",NA,NA,0,171989000
+"58",1995,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1800900,"",NA,NA,0,153076500
+"59",1996,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1274800,"",NA,NA,0,108358000
+"60",1997,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1618700,"",NA,NA,0,137589500
+"61",1998,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1760400,"",NA,NA,0,149634000
+"62",1999,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1841300,"",NA,NA,0,156510500
+"63",2000,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1537800,"",NA,NA,0,130713000
+"64",2001,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1092700,"",NA,NA,0,92879500
+"65",2002,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1193800,"",NA,NA,0,101473000
+"66",2003,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1355700,"",NA,NA,0,115234500
+"67",2004,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1608600,"",NA,NA,0,136731000
+"68",2005,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1740100,"",NA,NA,0,147908500
+"69",2006,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",1821100,"",NA,NA,0,154793500
+"70",2007,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2037600,"",NA,NA,0,173196000
+"71",2008,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2104400,"",NA,NA,0,178874000
+"72",2009,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2023400,"",NA,NA,0,171989000
+"73",2010,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2246000,"",NA,NA,0,190910000
+"74",2011,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2457100,"",NA,NA,0,208853500
+"75",2012,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2711400,"",NA,NA,0,230469000
+"76",2013,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2565700,"",NA,NA,0,218084500
+"77",2014,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2751900,"",NA,NA,0,233911500
+"78",2015,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2535400,"",NA,NA,0,215509000
+"79",2016,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2495200,"",NA,NA,0,212092000
+"80",2017,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2804500,"",NA,NA,0,238382500
+"81",2018,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2755900,"",NA,NA,0,234251500
+"82",2019,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2401200,"",NA,NA,0,204102000
+"83",2020,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2377900,"",NA,NA,0,202121500
+"84",2021,"Alberta","2016A000248","Seeded area (hectares)","Canola (rapeseed)","Hectares",149,"units",0,"v115114461","11.16.16",2721800,"",NA,NA,0,231353000
+"85",1980,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1420000,"",NA,NA,0,62125000
+"86",1981,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1420000,"",NA,NA,0,62125000
+"87",1982,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1420000,"",NA,NA,0,62125000
+"88",1983,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1497000,"",NA,NA,0,65493750
+"89",1984,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1578000,"",NA,NA,0,69037500
+"90",1985,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1578000,"",NA,NA,0,69037500
+"91",1986,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1598500,"",NA,NA,0,69934375
+"92",1987,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1760400,"",NA,NA,0,77017500
+"93",1988,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1881800,"",NA,NA,0,82328750
+"94",1989,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1760400,"",NA,NA,0,77017500
+"95",1990,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1800900,"",NA,NA,0,78789375
+"96",1991,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1848185,"",NA,NA,0,80858093.75
+"97",1992,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2084100,"",NA,NA,0,91179375
+"98",1993,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2063900,"",NA,NA,0,90295625
+"99",1994,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2165100,"",NA,NA,0,94723125
+"100",1995,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2165100,"",NA,NA,0,94723125
+"101",1996,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2019400,"",NA,NA,0,88348750
+"102",1997,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1983000,"",NA,NA,0,86756250
+"103",1998,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2063900,"",NA,NA,0,90295625
+"104",1999,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2225800,"",NA,NA,0,97378750
+"105",2000,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2468600,"",NA,NA,0,108001250
+"106",2001,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2670900,"",NA,NA,0,116851875
+"107",2002,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2670900,"",NA,NA,0,116851875
+"108",2003,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2630500,"",NA,NA,0,115084375
+"109",2004,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2630500,"",NA,NA,0,115084375
+"110",2005,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2579900,"",NA,NA,0,112870625
+"111",2006,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2525500,"",NA,NA,0,110490625
+"112",2007,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2448300,"",NA,NA,0,107113125
+"113",2008,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2367400,"",NA,NA,0,103573750
+"114",2009,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2286500,"",NA,NA,0,100034375
+"115",2010,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2205500,"",NA,NA,0,96490625
+"116",2011,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2122800,"",NA,NA,0,92872500
+"117",2012,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2003200,"",NA,NA,0,87640000
+"118",2013,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",2013300,"",NA,NA,0,88081875
+"119",2014,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1942500,"",NA,NA,0,84984375
+"120",2015,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1851400,"",NA,NA,0,80998750
+"121",2016,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1773500,"",NA,NA,0,77590625
+"122",2017,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1804900,"",NA,NA,0,78964375
+"123",2018,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1750500,"",NA,NA,0,76584375
+"124",2019,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1694460,"",NA,NA,0,74132625
+"125",2020,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1611600,"",NA,NA,0,70507500
+"126",2021,"Alberta","2016A000248","Seeded area (hectares)","Tame hay","Hectares",149,"units",0,"v115114481","11.16.28",1566600,"",NA,NA,0,68538750
+"127",1980,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"128",1981,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"129",1982,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"130",1983,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"131",1984,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"132",1985,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"133",1986,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"134",1987,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"135",1988,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"136",1989,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"137",1990,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",NA,"..",NA,NA,0,NA
+"138",1991,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2851269,"",NA,NA,0,156819795
+"139",1992,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",3027100,"",NA,NA,0,166490500
+"140",1993,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2792400,"",NA,NA,0,153582000
+"141",1994,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2181300,"",NA,NA,0,119971500
+"142",1995,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2420000,"",NA,NA,0,133100000
+"143",1996,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2650800,"",NA,NA,0,145794000
+"144",1997,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2387700,"",NA,NA,0,131323500
+"145",1998,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2330900,"",NA,NA,0,128199500
+"146",1999,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2598200,"",NA,NA,0,142901000
+"147",2000,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2505800,"",NA,NA,0,137819000
+"148",2001,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2403800,"",NA,NA,0,132209000
+"149",2002,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2112000,"",NA,NA,0,116160000
+"150",2003,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2140000,"",NA,NA,0,117700000
+"151",2004,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2207500,"",NA,NA,0,121412500
+"152",2005,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2321700,"",NA,NA,0,127693500
+"153",2006,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2395200,"",NA,NA,0,131736000
+"154",2007,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2054500,"",NA,NA,0,112997500
+"155",2008,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2428100,"",NA,NA,0,133545500
+"156",2009,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2494900,"",NA,NA,0,137219500
+"157",2010,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2517100,"",NA,NA,0,138440500
+"158",2011,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2505600,"",NA,NA,0,137808000
+"159",2012,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2415900,"",NA,NA,0,132874500
+"160",2013,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2679000,"",NA,NA,0,147345000
+"161",2014,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2551600,"",NA,NA,0,140338000
+"162",2015,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2464500,"",NA,NA,0,135547500
+"163",2016,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2396800,"",NA,NA,0,131824000
+"164",2017,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2424100,"",NA,NA,0,133325500
+"165",2018,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2573800,"",NA,NA,0,141559000
+"166",2019,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2706400,"",NA,NA,0,148852000
+"167",2020,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2604700,"",NA,NA,0,143258500
+"168",2021,"Alberta","2016A000248","Seeded area (hectares)","Wheat, all excluding durum wheat","Hectares",149,"units",0,"v115114494","11.16.23",2417100,"",NA,NA,0,132940500
