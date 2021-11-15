@@ -540,6 +540,109 @@ write.csv(quebecIntlConverted, "./data/Converted/International/quebec_internatio
 write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v1.csv")
 
 
+#
+# Convert Fertilizer data (total seeded area) to nitrogen
+#
+#Import data files and merge into one data frame
+alberta <- read.csv("./data/Raw/fertilizer/ALBERTA.csv")
+bc <- read.csv("./data/Raw/fertilizer/BC.csv")
+manitoba <- read.csv("./data/Raw/fertilizer/MANITOBA.csv")
+nb <- read.csv("./data/Raw/fertilizer/NEW BRUNSWICK.csv")
+nal <- read.csv("./data/Raw/fertilizer/NEWFOUNDLAND AND LABRADOR.csv")
+ns <- read.csv("./data/Raw/fertilizer/NOVA SCOTIA.csv")
+ontario <- read.csv("./data/Raw/fertilizer/ONTARIO.csv")
+pei <- read.csv("./data/Raw/fertilizer/PRINCE EDWARD ISLAND.csv")
+quebec <- read.csv("./data/Raw/fertilizer/QUEBEC.csv")
+saskatchewan <- read.csv("./data/Raw/fertilizer/SASKATCHEWAN.csv")
 
+fertilizer <- rbind(alberta, bc, manitoba, nb, nal, ns, ontario, pei, quebec, saskatchewan)
+
+#Import Conversion Factors
+applications <- read.csv("./data/Conversions/recommended_fertilizer.csv")
+rates <- melt(applications)
+
+#Create function to convert seeded area to nitrogen
+convertFertilizerToN <- function(province){
+  #Get provincial subset of fertilizer df
+  provincialDF <- fertilizer[fertilizer$GEO == province,]
+  
+  #Correct province name if province selected is one of the atlantic provinces or BC
+  atlanticProvinces <- c("New Brunswick", "Newfoundland and Labrador", "Nova Scotia", "Prince Edward Island")
+  if(any(grepl(province, atlanticProvinces))){
+    provinceName <- "Atlantic.provinces"
+  } else if(province == "British Columbia"){
+    provinceName <- "British.Columbia"
+  } else{
+    provinceName <- province
+  }
+  
+  #Extract only the province of interest from the conversion table
+  rates_byProvince <- rates[rates$variable == provinceName,]
+  
+  #Extract the crops of interest from the fertilizer table
+  crops <- levels(fertilizer$Type.of.crop)
+  
+  #Create an index variable
+  i <- 0
+  
+  #Iterate over the crops of interest
+  for (crop in crops){
+    
+    #Setup name to get the corresponding name of the crop in the application rate table, only gets changed from what is in crops due to exceptions.
+    if (crop == "Barley" || crop == "Mixed grains"){
+      name <- "Cereals"
+    } else if (crop == "Canola (rapeseed)"){
+      name <- "Canola (including rapeseed)"
+    } else if (crop == "Wheat, all excluding durum wheat" || crop == "Wheat, all"){
+      name <- "Wheat"
+    } else {
+      name <- crop
+    }
+    
+    #Get data frames with just the crop of interest
+    provincial_byCrop <- provincialDF[provincialDF$Type.of.crop == crop,]
+    nValues <- provincial_byCrop$VALUE * rates_byProvince$value[rates_byProvince$Crop == name]
+    
+    #Create by crop output df
+    byCrop_output <- provincial_byCrop
+    byCrop_output$Nitrogen.Applied <- nValues
+    
+    #Create a new data frame on first run, or merge with existing on later runs
+    if (exists("byCrop_output")){
+      if (i==0) {
+        outputDF <- byCrop_output
+      } else {
+        outputDF <- rbind(outputDF, byCrop_output)
+      }
+      i <- i+1
+      rm(byCrop_output)
+    }
+  }
+  return(outputDF)
+}
+
+#Convert seeded area
+albertaTotal <- convertFertilizerToN("Alberta")
+bcTotal <- convertFertilizerToN("British Columbia")
+manitobaTotal <- convertFertilizerToN("Manitoba")
+nbTotal <- convertFertilizerToN("New Brunswick")
+nalTotal <- convertFertilizerToN("Newfoundland and Labrador")
+nsTotal <- convertFertilizerToN("Nova Scotia")
+ontarioTotal <- convertFertilizerToN("Ontario")
+peiTotal <- convertFertilizerToN("Prince Edward Island")
+quebecTotal <- convertFertilizerToN("Quebec")
+saskatchewanTotal <- convertFertilizerToN("Saskatchewan")
+
+#Output to file
+write.csv(albertaTotal, "./data/Converted/Total_Area/Alberta_Total_v1.csv")
+write.csv(bcTotal, "./data/Converted/Total_Area/British_Columbia_Total_v1.csv")
+write.csv(manitobaTotal, "./data/Converted/Total_Area/Manitoba_Total_v1.csv")
+write.csv(nbTotal, "./data/Converted/Total_Area/New_Brunswick_Total_v1.csv")
+write.csv(nalTotal, "./data/Converted/Total_Area/Newfoundland_and_Labrador_Total_v1.csv")
+write.csv(nsTotal, "./data/Converted/Total_Area/Nova_Scotia_Total_v1.csv")
+write.csv(ontarioTotal, "./data/Converted/Total_Area/Ontario_Total_v1.csv")
+write.csv(peiTotal, "./data/Converted/Total_Area/PEI_Total_v1.csv")
+write.csv(quebecTotal, "./data/Converted/Total_Area/Quebec_Total_v1.csv")
+write.csv(saskatchewanTotal, "./data/Converted/Total_Area/Saskatchewan_Total_v1.csv")
 
 
