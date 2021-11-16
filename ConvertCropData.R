@@ -349,7 +349,7 @@ convertIntlMassToArea <- function(province){
     } else if (crop == "Canola (including rapeseed)"){
       names <- c("Rape")
     } else if (crop == "Corn for grain"){
-      names <- c("Corn")
+      names <- c("Corn", "corn")
     } else if (crop == "Flaxseed"){
       names <- c("Oil seeds") 
     } else if (crop == "Oats"){
@@ -375,7 +375,7 @@ convertIntlMassToArea <- function(province){
     
     #Create an average yield conversion factor in case there are missing values
     averageYield <- 0
-    averageYield <- mean(yields_byCrop$VALUE)
+    averageYield <- mean(yields_byCrop$VALUE, na.rm=TRUE)
     #Special case for potatoes
     if (crop == "Fresh potatoes"){
       averageYield <- mean(yields_byCrop$KG_HA)
@@ -460,7 +460,7 @@ convertIntlAreaToN <- function(province, provincialDF){
   rates_byProvince <- rates[rates$variable == provinceName,]
   
   #Extract the crops of interest from the yields conversion table
-  crops <- c("Canola (including rapeseed)", "Corn for Grain", "Flaxseed", "Oats", "Cereals", "Fresh potatoes", "Winter wheat", "Spring wheat")
+  crops <- c("Canola (including rapeseed)", "Corn for grain", "Flaxseed", "Oats", "Cereals", "Fresh potatoes", "Winter wheat", "Spring wheat")
   
   #Create an index variable
   i <- 0
@@ -474,7 +474,7 @@ convertIntlAreaToN <- function(province, provincialDF){
     } else if (crop == "Canola (including rapeseed)"){
       names <- c("Rape")
     } else if (crop == "Corn for grain"){
-      names <- c("Corn")
+      names <- c("Corn", "corn")
     } else if (crop == "Flaxseed"){
       names <- c("Oil seeds") 
     } else if (crop == "Oats"){
@@ -528,16 +528,16 @@ quebecIntlConverted <- convertIntlAreaToN("Quebec", quebecIntl)
 saskatchewanIntlConverted <- convertIntlAreaToN("Saskatchewan", saskatchewanIntl)
 
 #Write converted data files
-write.csv(albertaIntlConverted, "./data/Converted/International/alberta_international_v1.csv")
-write.csv(manitobaIntlConverted, "./data/Converted/International/manitoba_international_v1.csv")
-write.csv(bcIntlConverted, "./data/Converted/International/british_columbia_international_v1.csv")
-write.csv(nbIntlConverted, "./data/Converted/International/new_brunswick_international_v1.csv")
-write.csv(nalIntlConverted, "./data/Converted/International/newfoundland_and_labrador_international_v1.csv")
-write.csv(nsIntlConverted, "./data/Converted/International/nova_scotia_international_v1.csv")
-write.csv(ontarioIntlConverted, "./data/Converted/International/ontario_international_v1.csv")
-write.csv(peiIntlConverted, "./data/Converted/International/pei_international_v1.csv")
-write.csv(quebecIntlConverted, "./data/Converted/International/quebec_international_v1.csv")
-write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v1.csv")
+write.csv(albertaIntlConverted, "./data/Converted/International/alberta_international_v2.csv")
+write.csv(manitobaIntlConverted, "./data/Converted/International/manitoba_international_v2.csv")
+write.csv(bcIntlConverted, "./data/Converted/International/british_columbia_international_v2.csv")
+write.csv(nbIntlConverted, "./data/Converted/International/new_brunswick_international_v2.csv")
+write.csv(nalIntlConverted, "./data/Converted/International/newfoundland_and_labrador_international_v2.csv")
+write.csv(nsIntlConverted, "./data/Converted/International/nova_scotia_international_v2.csv")
+write.csv(ontarioIntlConverted, "./data/Converted/International/ontario_international_v2.csv")
+write.csv(peiIntlConverted, "./data/Converted/International/pei_international_v2.csv")
+write.csv(quebecIntlConverted, "./data/Converted/International/quebec_international_v2.csv")
+write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v2.csv")
 
 
 #
