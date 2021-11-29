@@ -645,4 +645,8 @@ write.csv(peiTotal, "./data/Converted/Total_Area/PEI_Total_v1.csv")
 write.csv(quebecTotal, "./data/Converted/Total_Area/Quebec_Total_v1.csv")
 write.csv(saskatchewanTotal, "./data/Converted/Total_Area/Saskatchewan_Total_v1.csv")
 
+#Get Total and write to file
+fertilizerTotal <- rbind(albertaTotal, bcTotal, manitobaTotal, nbTotal, nalTotal, nsTotal, ontarioTotal, peiTotal, quebecTotal, saskatchewanTotal)
+write.csv(fertilizerTotal, "./data/Converted/Total_Area/Canada_Total_v1.csv")
+
 

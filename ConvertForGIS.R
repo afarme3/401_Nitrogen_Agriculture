@@ -1,21 +1,17 @@
 #ConvertForGIS.R : A script to convert csv data into shapefiles
 
 #Imports
-install.packages("raster")
-install.packages("adespatial")
 install.packages("sf")
 
-library(raster)
-library(adespatial)
 library(sf)
-library(stringr)
 
 #Import shapefiles
-provinces <- st_read("./gis/provinces.shp")
+provinces <- st_read("./gis/Provinces/provinces.shp")
 provincesDF <- data.frame(provinces)
 
 #Import csv data
 seededArea <- read.csv("./data/Converted/Total_Area/Canada_Total_v1.csv")
+seededArea$date <- paste(seededArea$REF_DATE, "-01-01", sep="")
 seededArea$Thousands.Nitrogen.Applied <- seededArea$Nitrogen.Applied/1000
 cropsList <- levels(seededArea$Type.of.crop)
 
