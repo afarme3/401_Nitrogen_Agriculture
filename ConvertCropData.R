@@ -279,6 +279,7 @@ ontarioConverted_3 <- convertAreaToN("Ontario", ontarioConverted_2)
 peiConverted_3 <- convertAreaToN("Prince Edward Island", peiConverted_2)
 quebecConverted_3 <- convertAreaToN("Quebec", quebecConverted_2)
 saskatchewanConverted_3 <- convertAreaToN("Saskatchewan", saskatchewanConverted_2)
+canadaInterprovinciaConverted <- rbind(albertaConverted_3, manitobaConverted_3, bcConverted_3, nbConverted_3, nalConverted_3, nsConverted_3, ontarioConverted_3, peiConverted_3, quebecConverted_3, saskatchewanConverted_3)
 
 #Output final converted data frames to file
 write.csv(albertaConverted_3, "./data/Converted/Interprovincial/alberta_interprovincial_v1.csv")
@@ -291,6 +292,7 @@ write.csv(ontarioConverted_3, "./data/Converted/Interprovincial/ontario_interpro
 write.csv(peiConverted_3, "./data/Converted/Interprovincial/pei_interprovincial_v1.csv")
 write.csv(quebecConverted_3, "./data/Converted/Interprovincial/quebec_interprovincial_v1.csv")
 write.csv(saskatchewanConverted_3, "./data/Converted/Interprovincial/saskatchewan_interprovincial_v1.csv")
+write.csv(canadaInterprovinciaConverted, "./data/Converted/Interprovincial/canada_interprovincial_total_v1.csv")
 
 #
 # Convert international trade data to nitrogen footprint
