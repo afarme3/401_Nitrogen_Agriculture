@@ -415,8 +415,10 @@ convertIntlMassToArea <- function(province){
       j <- j+1
     }
     
+    
     #Create a new data frame on first run, or merge with existing on later runs
     if (exists("byCrop_output")){
+      byCrop_output$General.Crop <- crop
       if (i==0) {
         outputDF <- byCrop_output
       } else {
@@ -528,19 +530,21 @@ ontarioIntlConverted <- convertIntlAreaToN("Ontario", ontarioIntl)
 peiIntlConverted <- convertIntlAreaToN("Prince Edward Island", peiIntl)
 quebecIntlConverted <- convertIntlAreaToN("Quebec", quebecIntl)
 saskatchewanIntlConverted <- convertIntlAreaToN("Saskatchewan", saskatchewanIntl)
+canadaIntlTotal <- rbind(albertaIntlConverted, bcIntlConverted, manitobaIntlConverted, nbIntlConverted, nalIntlConverted, nsIntlConverted, ontarioIntlConverted, peiIntlConverted, quebecIntlConverted, saskatchewanIntlConverted)
+
 
 #Write converted data files
-write.csv(albertaIntlConverted, "./data/Converted/International/alberta_international_v2.csv")
-write.csv(manitobaIntlConverted, "./data/Converted/International/manitoba_international_v2.csv")
-write.csv(bcIntlConverted, "./data/Converted/International/british_columbia_international_v2.csv")
-write.csv(nbIntlConverted, "./data/Converted/International/new_brunswick_international_v2.csv")
-write.csv(nalIntlConverted, "./data/Converted/International/newfoundland_and_labrador_international_v2.csv")
-write.csv(nsIntlConverted, "./data/Converted/International/nova_scotia_international_v2.csv")
-write.csv(ontarioIntlConverted, "./data/Converted/International/ontario_international_v2.csv")
-write.csv(peiIntlConverted, "./data/Converted/International/pei_international_v2.csv")
-write.csv(quebecIntlConverted, "./data/Converted/International/quebec_international_v2.csv")
-write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v2.csv")
-
+write.csv(albertaIntlConverted, "./data/Converted/International/alberta_international_v3.csv")
+write.csv(manitobaIntlConverted, "./data/Converted/International/manitoba_international_v3.csv")
+write.csv(bcIntlConverted, "./data/Converted/International/british_columbia_international_v3.csv")
+write.csv(nbIntlConverted, "./data/Converted/International/new_brunswick_international_v3.csv")
+write.csv(nalIntlConverted, "./data/Converted/International/newfoundland_and_labrador_international_v3.csv")
+write.csv(nsIntlConverted, "./data/Converted/International/nova_scotia_international_v3.csv")
+write.csv(ontarioIntlConverted, "./data/Converted/International/ontario_international_v3.csv")
+write.csv(peiIntlConverted, "./data/Converted/International/pei_international_v3.csv")
+write.csv(quebecIntlConverted, "./data/Converted/International/quebec_international_v3.csv")
+write.csv(saskatchewanIntlConverted, "./data/Converted/International/saskatchewan_international_v3.csv")
+write.csv(canadaIntlTotal, "./data/Converted/International/canada_total_international_v3.csv")
 
 #
 # Convert Fertilizer data (total seeded area) to nitrogen

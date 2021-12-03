@@ -1,6 +1,7 @@
 #
 #Import Libraries
 library(ggplot2)
+library(tidyverse)
 
 #Import Data for Fertilizer Seeded Area
 quebec <- read.csv("./data/Raw/fertilizer/QUEBEC.csv")
@@ -212,5 +213,33 @@ ggplot(data=saskatchewan, aes(x=REF_DATE, y=Nitrogen.Applied, color=Type.of.crop
   guides(color=guide_legend("Crop Type"))+
   ggtitle("Nitrogen Applied (kg) Over Time for Saskatchewan")
 
+#
+# Create Plots for International data
+#
+#read data
+international <- read.csv("./data/Converted/International/canada_total_international_v3.csv")
 
- 
+#Get General Crop Totals for each  province
+generalTotals <- data.frame(Period=character(), Province=character(), Crop=character(), Nitrogen.Applied=double())
+
+#Iterate through everything and add to data frame
+dfCreated <- FALSE
+provinces <- levels(international$Province)
+for (province in provinces){
+  provincialDF <- international[international$Province == province,]
+  crops <- unique(provincialDF$General.Crop)
+  for (crop in crops){
+    byCropDF <- provincialDF[provincialDF$General.Crop == crop,]
+    years <- unique(byCropDF$Period)
+    for (year in years){
+      yearlyDF <- byCropDF[byCropDF$Period == year,]
+      yearlyNtotal = sum(yearlyDF$Nitrogen.Applied, na.rm=TRUE)
+      if (dfCreated == FALSE){
+        generalTotals <- data.frame(Period=c(year), Province=c(province), Crop=c(crop), Nitrogen.Applied=c(yearlyNtotal), stringsAsFactors = FALSE)
+        dfCreated <- TRUE
+      } else {
+        generalTotals[nrow(generalTotals)+1,] = list(year, province, crop, yearlyNtotal)
+      }
+    }
+  }
+}
