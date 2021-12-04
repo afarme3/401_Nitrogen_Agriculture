@@ -2,6 +2,7 @@
 #Import Libraries
 library(ggplot2)
 library(tidyverse)
+library(stringr)
 
 #Import Data for Fertilizer Seeded Area
 quebec <- read.csv("./data/Raw/fertilizer/QUEBEC.csv")
@@ -243,3 +244,50 @@ for (province in provinces){
     }
   }
 }
+
+interprovincial <- read.csv("./data/Converted/Interprovincial/canada_interprovincial_total_v1.csv")
+totals <- read.csv("./data/Converted/Total_Area/Canada_Total_v1.csv")
+
+internationalCrops <- unique(generalTotals$Crop)
+interprovincialCrops <- unique(str_sub(interprovincial$Product, end=-13))
+allCrops <- unique(totals$Type.of.crop)
+
+canolaIntl <- generalTotals[generalTotals$Crop == "Canola (including rapeseed)",]
+canolaInpr <- interprovincial[interprovincial$Product == "Canola (including rapeseed) [MPG111A01]",]
+canolaTotal <- totals[totals$Type.of.crop == "Canola (rapeseed)",]
+
+provinces <- unique(canolaTotal$GEO)
+dfCreated <- FALSE
+for (province in provinces){
+  provincialCanola <- canolaTotal[canolaTotal$GEO == province,]
+  provincialIntl <- canolaIntl[canolaIntl$Province == province,]
+  provincialInpr <- canolaInpr[canolaInpr$GEO == province,]
+  years <- unique(provincialCanola$REF_DATE)
+  for (year in years){
+    intlPercent <- 100*(provincialIntl[str_sub(provincialIntl$Period, end=-7) ==year,]$Nitrogen.Applied / provincialCanola[provincialCanola$REF_DATE == year,]$Nitrogen.Applied)
+    inprPercent <- 100*(provincialInpr[provincialInpr$REF_DATE == year,]$Nitrogen.Applied / provincialCanola[provincialCanola$REF_DATE == year,]$Nitrogen.Applied)
+    
+    if (length(intlPercent) == 0){
+      intlPercent <- NA
+    }
+    if (length(inprPercent) == 0){
+      inprPercent <- NA 
+    }
+    
+    if (dfCreated == FALSE){
+      canolaPercents <- data.frame(Period=c(year), Province=c(province), Intl.Percent=c(intlPercent), Intpvl.Percent=c(inprPercent), stringsAsFactors = FALSE)
+      dfCreated <- TRUE
+    } else {
+      canolaPercents[nrow(canolaPercents)+1,] = list(year, province, intlPercent, inprPercent)
+    }
+    }
+}
+
+#Plot percentage for export 
+ggplot(data=canolaPercents[canolaPercents$Period > 1987,], aes(x=Period, y=Intl.Percent, color=Province))+
+  geom_line(size=1.5)+
+  theme_light()+
+  xlab("Year")+
+  ylab("Percentage")+
+  guides(color=guide_legend("Province"), size=guide_legend("Province"))+
+  ggtitle("Percentage Nitrogen Applied for Internationally Exported Canola")
