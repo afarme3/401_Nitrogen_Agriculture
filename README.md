@@ -25,7 +25,7 @@ This folder contains the output data, after having undergone conversions. It is 
 This folder contains the raw data as obtained from Statistics Canada. It is also split into International, Interprovincial, and 'fertilizer' (Total Seeded Area).
 
 #### *./gis/*
-This folder contains the assets used in the creation of our animated maps. Here, it onl contains a QGIS project. 
+This folder contains the assets used in the creation of our animated maps. Here, it only contains a QGIS project. 
 
 #### *ConvertCropData.R*
 This script is where all of the conversions were performed. For each conversion step applied to each kind of data, there is a function which performs that specific conversion. This script takes the raw data, applies the conversion factors, and then writes the resulting data.
